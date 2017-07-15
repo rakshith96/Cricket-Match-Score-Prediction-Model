@@ -1,0 +1,395 @@
+Batsman,Bowler,0s_prob,1s_prob,2s_prob,3s_prob,4s_prob,5s_prob,6s_prob,outs_prob,extras_prob
+SJ Srivastava,AJ Finch,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+SJ Srivastava,Aavishkar Madhav Salvi,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+SJ Srivastava,A Mithun,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+SJ Srivastava,A Mukund,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+SJ Srivastava,AA Jhunjhunwala,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+SJ Srivastava,AM Nayar,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+SJ Srivastava,AS Raut,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+SJ Srivastava,Abrar Anjum Kazi,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+SJ Srivastava,AN Ahmed,0.5,0.5,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+SJ Srivastava,AC Voges,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+SJ Srivastava,AC Gilchrist,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+SJ Srivastava,Adam Fraser Milne,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+SJ Srivastava,Adam John Hollioake,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+SJ Srivastava,A Zampa,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+SJ Srivastava,AP Dole,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+SJ Srivastava,AD Mascarenhas,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0
+SJ Srivastava,AC Blizzard,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+SJ Srivastava,AM Rahane,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+SJ Srivastava,AB Agarkar,0.14285714285714285,0.14285714285714285,0.14285714285714285,0.14285714285714285,0.14285714285714285,0.0,0.0,0.14285714285714285,0.14285714285714285
+SJ Srivastava,A Chandila,0.5,0.0,0.0,0.0,0.0,0.0,0.0,0.5,0.0
+SJ Srivastava,AD Nath,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+SJ Srivastava,AR Patel,0.2,0.2,0.2,0.0,0.2,0.0,0.0,0.0,0.2
+SJ Srivastava,AC Thomas,0.2,0.2,0.2,0.0,0.2,0.0,0.0,0.2,0.0
+SJ Srivastava,AG Murtaza,0.5,0.5,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+SJ Srivastava,A Mishra,0.2,0.2,0.0,0.0,0.0,0.0,0.2,0.2,0.2
+SJ Srivastava,A Singh,0.3333333333333333,0.3333333333333333,0.0,0.0,0.0,0.0,0.0,0.3333333333333333,0.0
+SJ Srivastava,A Uniyal,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+SJ Srivastava,A Ashish Reddy,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+SJ Srivastava,Anand Rajan,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+SJ Srivastava,AD Russell,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+SJ Srivastava,Andre Nel,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+SJ Srivastava,AB McDonald,0.0,0.5,0.0,0.0,0.0,0.0,0.0,0.5,0.0
+SJ Srivastava,A Flintoff,0.3333333333333333,0.3333333333333333,0.0,0.0,0.0,0.0,0.0,0.3333333333333333,0.0
+SJ Srivastava,A Symonds,0.0,0.25,0.0,0.0,0.25,0.0,0.25,0.25,0.0
+SJ Srivastava,Angelo Davis Mathews,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+SJ Srivastava,A Kumble,0.25,0.25,0.0,0.0,0.0,0.0,0.0,0.25,0.25
+SJ Srivastava,AA Chavan,0.3333333333333333,0.0,0.3333333333333333,0.0,0.0,0.0,0.3333333333333333,0.0,0.0
+SJ Srivastava,Ankit Sharma,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+SJ Srivastava,AS Rajpoot,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+SJ Srivastava,AUK Pathan,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+SJ Srivastava,A Nehra,0.16666666666666666,0.16666666666666666,0.16666666666666666,0.0,0.16666666666666666,0.0,0.0,0.16666666666666666,0.16666666666666666
+SJ Srivastava,AA Noffke,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+SJ Srivastava,AB Dinda,0.14285714285714285,0.14285714285714285,0.14285714285714285,0.0,0.14285714285714285,0.0,0.14285714285714285,0.14285714285714285,0.14285714285714285
+SJ Srivastava,AL Menaria,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+SJ Srivastava,Azhar Mahmood,0.0,0.5,0.0,0.0,0.5,0.0,0.0,0.0,0.0
+SJ Srivastava,B Akhil,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+SJ Srivastava,BAW Mendis,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+SJ Srivastava,BMAJ Mendis,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+SJ Srivastava,BB Sran,0.25,0.25,0.0,0.0,0.25,0.0,0.0,0.25,0.0
+SJ Srivastava,BJ Rohrer,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+SJ Srivastava,B Laughlin,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+SJ Srivastava,BR Dunk,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+SJ Srivastava,BCJ Cutting,0.5,0.0,0.0,0.0,0.0,0.0,0.0,0.5,0.0
+SJ Srivastava,Benjamin William Hilfenhaus,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+SJ Srivastava,BE Hendricks,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+SJ Srivastava,B Chipli,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+SJ Srivastava,BA Bhatt,0.25,0.25,0.0,0.0,0.25,0.0,0.0,0.25,0.0
+SJ Srivastava,B Kumar,0.2,0.2,0.0,0.0,0.2,0.0,0.2,0.2,0.0
+SJ Srivastava,BB Samantray,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+SJ Srivastava,Bipul Sharma,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0
+SJ Srivastava,B Sumanth,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+SJ Srivastava,BJ Hodge,0.3333333333333333,0.3333333333333333,0.0,0.0,0.0,0.0,0.0,0.3333333333333333,0.0
+SJ Srivastava,Brett Geeves,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+SJ Srivastava,B Lee,0.25,0.25,0.25,0.0,0.0,0.0,0.0,0.25,0.0
+SJ Srivastava,CL White,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+SJ Srivastava,CR Brathwaite,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+SJ Srivastava,CK Kapugedera,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+SJ Srivastava,Chandrasekharan Ganapathy,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+SJ Srivastava,CK Langeveldt,0.25,0.25,0.0,0.0,0.25,0.0,0.0,0.25,0.0
+SJ Srivastava,C Nanda,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+SJ Srivastava,CA Lynn,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+SJ Srivastava,CH Gayle,0.2,0.2,0.0,0.0,0.2,0.0,0.0,0.2,0.2
+SJ Srivastava,CH Morris,0.3333333333333333,0.3333333333333333,0.3333333333333333,0.0,0.0,0.0,0.0,0.0,0.0
+SJ Srivastava,CJ Jordan,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+SJ Srivastava,CJ McKay,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+SJ Srivastava,CA Ingram,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+SJ Srivastava,C Munro,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+SJ Srivastava,CRD Fernando,0.2,0.2,0.2,0.0,0.0,0.0,0.0,0.2,0.2
+SJ Srivastava,CJ Anderson,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+SJ Srivastava,DW Steyn,0.3333333333333333,0.16666666666666666,0.0,0.0,0.16666666666666666,0.0,0.0,0.16666666666666666,0.16666666666666666
+SJ Srivastava,DJ Harris,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+SJ Srivastava,DL Vettori,0.5,0.5,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+SJ Srivastava,DT Christian,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+SJ Srivastava,DJG Sammy,0.3333333333333333,0.3333333333333333,0.0,0.0,0.0,0.0,0.0,0.3333333333333333,0.0
+SJ Srivastava,DS Lehmann,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+SJ Srivastava,DA Miller,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+SJ Srivastava,DA Warner,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+SJ Srivastava,DJ Jacobs,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+SJ Srivastava,DJ Hussey,0.25,0.0,0.25,0.0,0.25,0.0,0.0,0.25,0.0
+SJ Srivastava,D Wiese,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+SJ Srivastava,DJ Hooda,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+SJ Srivastava,Deepak Lokandersingh Chahar,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+SJ Srivastava,DNT Zoysa,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+SJ Srivastava,DPMD Jayawardene,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+SJ Srivastava,DB Ravi Teja,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+SJ Srivastava,DS Kulkarni,0.25,0.25,0.0,0.0,0.0,0.0,0.0,0.25,0.25
+SJ Srivastava,D du Preez,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+SJ Srivastava,D Salunkhe,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+SJ Srivastava,DP Nannes,0.25,0.25,0.0,0.0,0.25,0.0,0.0,0.0,0.25
+SJ Srivastava,D Kalyankrishna,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+SJ Srivastava,DJ Thornely,0.25,0.25,0.0,0.0,0.0,0.0,0.0,0.25,0.25
+SJ Srivastava,DJ Muthuswami,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+SJ Srivastava,DAJ Bracewell,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+SJ Srivastava,DE Bollinger,0.2,0.2,0.2,0.0,0.2,0.0,0.0,0.2,0.0
+SJ Srivastava,DJ Bravo,0.14285714285714285,0.14285714285714285,0.14285714285714285,0.0,0.14285714285714285,0.0,0.14285714285714285,0.14285714285714285,0.14285714285714285
+SJ Srivastava,DR Smith,0.0,0.3333333333333333,0.0,0.0,0.3333333333333333,0.0,0.0,0.3333333333333333,0.0
+SJ Srivastava,FY Fazal,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+SJ Srivastava,F Behardien,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+SJ Srivastava,FH Edwards,0.3333333333333333,0.3333333333333333,0.0,0.0,0.0,0.0,0.0,0.0,0.3333333333333333
+SJ Srivastava,F du Plessis,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+SJ Srivastava,GH Vihari,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+SJ Srivastava,Gagandeep Singh Toor,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+SJ Srivastava,GB Hogg,0.3333333333333333,0.3333333333333333,0.0,0.0,0.0,0.0,0.0,0.3333333333333333,0.0
+SJ Srivastava,GJ Bailey,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+SJ Srivastava,GD McGrath,0.25,0.25,0.0,0.0,0.25,0.0,0.0,0.25,0.0
+SJ Srivastava,GJ Maxwell,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+SJ Srivastava,GC Smith,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+SJ Srivastava,GR Napier,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+SJ Srivastava,Gurinder Singh Sandhu,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+SJ Srivastava,Gurkeerat Singh,0.5,0.5,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+SJ Srivastava,Harbhajan Singh,0.14285714285714285,0.14285714285714285,0.14285714285714285,0.0,0.14285714285714285,0.0,0.14285714285714285,0.14285714285714285,0.14285714285714285
+SJ Srivastava,HH Pandya,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+SJ Srivastava,Harmeet Singh Baddhan,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+SJ Srivastava,Harmeet Singh,0.14285714285714285,0.14285714285714285,0.14285714285714285,0.0,0.14285714285714285,0.0,0.14285714285714285,0.14285714285714285,0.14285714285714285
+SJ Srivastava,Harpreet Singh,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+SJ Srivastava,HV Patel,0.25,0.25,0.0,0.0,0.25,0.0,0.0,0.25,0.0
+SJ Srivastava,HM Amla,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+SJ Srivastava,S Randiv,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+SJ Srivastava,IK Pathan,0.25,0.25,0.125,0.0,0.125,0.0,0.0,0.125,0.125
+SJ Srivastava,I Malhotra,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+SJ Srivastava,IR Jaggi,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+SJ Srivastava,I Sharma,0.2857142857142857,0.14285714285714285,0.14285714285714285,0.14285714285714285,0.0,0.0,0.0,0.14285714285714285,0.14285714285714285
+SJ Srivastava,IC Pandey,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+SJ Srivastava,Ishwar Haribhai Chaudhary,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+SJ Srivastava,JDP Oram,0.25,0.25,0.0,0.0,0.25,0.0,0.0,0.25,0.0
+SJ Srivastava,JH Kallis,0.25,0.125,0.125,0.125,0.125,0.0,0.0,0.125,0.125
+SJ Srivastava,J Suchith,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+SJ Srivastava,Jagrit Anand,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+SJ Srivastava,Jalaj Sahay Saxena,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+SJ Srivastava,J Syed Mohammad,0.3333333333333333,0.0,0.0,0.0,0.0,0.0,0.3333333333333333,0.3333333333333333,0.0
+SJ Srivastava,JDS Neesham,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+SJ Srivastava,JEC Franklin,0.3333333333333333,0.3333333333333333,0.0,0.0,0.0,0.0,0.3333333333333333,0.0,0.0
+SJ Srivastava,JP Faulkner,0.2,0.2,0.0,0.0,0.2,0.0,0.0,0.2,0.2
+SJ Srivastava,JR Hopes,0.0,0.5,0.0,0.0,0.0,0.0,0.0,0.5,0.0
+SJ Srivastava,Jaskaran Singh,0.5,0.0,0.0,0.0,0.5,0.0,0.0,0.0,0.0
+SJ Srivastava,JO Holder,0.25,0.25,0.25,0.0,0.25,0.0,0.0,0.0,0.0
+SJ Srivastava,JJ Bumrah,0.25,0.25,0.0,0.0,0.0,0.0,0.0,0.25,0.25
+SJ Srivastava,J Yadav,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+SJ Srivastava,JD Unadkat,0.25,0.25,0.0,0.0,0.0,0.0,0.25,0.0,0.25
+SJ Srivastava,JP Duminy,0.16666666666666666,0.16666666666666666,0.16666666666666666,0.0,0.16666666666666666,0.0,0.16666666666666666,0.16666666666666666,0.0
+SJ Srivastava,JE Taylor,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+SJ Srivastava,JD Ryder,0.3333333333333333,0.3333333333333333,0.3333333333333333,0.0,0.0,0.0,0.0,0.0,0.0
+SJ Srivastava,Joginder Sharma,0.0,0.5,0.5,0.0,0.0,0.0,0.0,0.0,0.0
+SJ Srivastava,J Botha,0.25,0.25,0.0,0.0,0.25,0.0,0.0,0.25,0.0
+SJ Srivastava,JA Morkel,0.14285714285714285,0.14285714285714285,0.14285714285714285,0.0,0.14285714285714285,0.0,0.14285714285714285,0.14285714285714285,0.14285714285714285
+SJ Srivastava,JJ van der Wath,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+SJ Srivastava,John Wayne Hastings,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+SJ Srivastava,J Theron,0.3333333333333333,0.3333333333333333,0.0,0.0,0.0,0.0,0.0,0.0,0.3333333333333333
+SJ Srivastava,JM Kemp,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+SJ Srivastava,Kamran Khan,0.0,0.5,0.0,0.0,0.0,0.0,0.0,0.5,0.0
+SJ Srivastava,KS Williamson,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+SJ Srivastava,KW Richardson,0.0,0.5,0.5,0.0,0.0,0.0,0.0,0.0,0.0
+SJ Srivastava,K Goel,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+SJ Srivastava,Karanveer Singh,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+SJ Srivastava,KV Sharma,0.5,0.0,0.5,0.0,0.0,0.0,0.0,0.0,0.0
+SJ Srivastava,KK Nair,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+SJ Srivastava,Anureet Singh,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+SJ Srivastava,KM Jadhav,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+SJ Srivastava,KAJ Roach,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+SJ Srivastava,KP Pietersen,0.3333333333333333,0.3333333333333333,0.0,0.0,0.3333333333333333,0.0,0.0,0.0,0.0
+SJ Srivastava,KK Cooper,0.25,0.25,0.25,0.0,0.0,0.0,0.0,0.0,0.25
+SJ Srivastava,Abdur Razzak,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+SJ Srivastava,KA Pollard,0.2,0.2,0.2,0.0,0.2,0.0,0.0,0.2,0.0
+SJ Srivastava,KB Arun Karthik,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+SJ Srivastava,KC Cariappa,0.3333333333333333,0.3333333333333333,0.0,0.0,0.3333333333333333,0.0,0.0,0.0,0.0
+SJ Srivastava,KP Appanna,0.16666666666666666,0.16666666666666666,0.16666666666666666,0.0,0.16666666666666666,0.0,0.0,0.16666666666666666,0.16666666666666666
+SJ Srivastava,KD Karthik,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+SJ Srivastava,Krishmar Santokie,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+SJ Srivastava,K Upadhyay,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+SJ Srivastava,KH Pandya,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0
+SJ Srivastava,KMDN Kulasekara,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+SJ Srivastava,Kuldeep Yadav,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+SJ Srivastava,KJ Abbott,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+SJ Srivastava,L Balaji,0.2222222222222222,0.2222222222222222,0.1111111111111111,0.0,0.1111111111111111,0.0,0.1111111111111111,0.1111111111111111,0.1111111111111111
+SJ Srivastava,LR Shukla,0.16666666666666666,0.16666666666666666,0.16666666666666666,0.0,0.16666666666666666,0.0,0.0,0.16666666666666666,0.16666666666666666
+SJ Srivastava,LA Carseldine,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+SJ Srivastava,LMP Simmons,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+SJ Srivastava,LPC Silva,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+SJ Srivastava,L Ablish,0.3333333333333333,0.3333333333333333,0.0,0.0,0.0,0.0,0.0,0.0,0.3333333333333333
+SJ Srivastava,LJ Wright,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+SJ Srivastava,LRPL Taylor,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+SJ Srivastava,T Thushara,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+SJ Srivastava,MS Dhoni,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+SJ Srivastava,M Ntini,0.3333333333333333,0.3333333333333333,0.0,0.0,0.3333333333333333,0.0,0.0,0.0,0.0
+SJ Srivastava,Mandeep Singh,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+SJ Srivastava,MK Pandey,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+SJ Srivastava,MK Tiwary,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+SJ Srivastava,MS Gony,0.14285714285714285,0.14285714285714285,0.14285714285714285,0.0,0.14285714285714285,0.0,0.14285714285714285,0.14285714285714285,0.14285714285714285
+SJ Srivastava,M de Lange,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+SJ Srivastava,MP Stoinis,0.3333333333333333,0.3333333333333333,0.0,0.0,0.0,0.0,0.0,0.3333333333333333,0.0
+SJ Srivastava,MN Samuels,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+SJ Srivastava,MJ Guptill,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+SJ Srivastava,Mashrafe Mortaza,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+SJ Srivastava,MA Agarwal,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+SJ Srivastava,MEK Hussey,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+SJ Srivastava,Michael Gertges Neser,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+SJ Srivastava,Michael John Buchanan,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+SJ Srivastava,MJ Clarke,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+SJ Srivastava,MJ Lumb,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+SJ Srivastava,MA Starc,0.25,0.25,0.0,0.0,0.25,0.0,0.0,0.25,0.0
+SJ Srivastava,MG Johnson,0.2,0.2,0.0,0.0,0.2,0.0,0.0,0.2,0.2
+SJ Srivastava,MJ McClenaghan,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+SJ Srivastava,MR Marsh,0.2,0.2,0.0,0.0,0.2,0.0,0.0,0.2,0.2
+SJ Srivastava,M Manhas,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+SJ Srivastava,MF Maharoof,0.3333333333333333,0.3333333333333333,0.0,0.0,0.0,0.0,0.0,0.3333333333333333,0.0
+SJ Srivastava,Mohammad Ashraful,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+SJ Srivastava,Mohammad Asif,0.5,0.5,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+SJ Srivastava,Mohammad Hafeez,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+SJ Srivastava,Imran Tahir,0.2,0.2,0.0,0.0,0.0,0.0,0.2,0.2,0.2
+SJ Srivastava,Mohammad Mustafizur Rahman,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+SJ Srivastava,Younis Khan,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+SJ Srivastava,Mohammed Shami,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+SJ Srivastava,MM Sharma,0.25,0.25,0.0,0.0,0.25,0.0,0.0,0.25,0.0
+SJ Srivastava,Mohnish Bipinbhai Parmar,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+SJ Srivastava,MC Henriques,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+SJ Srivastava,M Morkel,0.16666666666666666,0.16666666666666666,0.16666666666666666,0.0,0.16666666666666666,0.0,0.0,0.16666666666666666,0.16666666666666666
+SJ Srivastava,MM Patel,0.2857142857142857,0.14285714285714285,0.14285714285714285,0.0,0.14285714285714285,0.0,0.14285714285714285,0.14285714285714285,0.0
+SJ Srivastava,M Kartik,0.3333333333333333,0.3333333333333333,0.0,0.0,0.3333333333333333,0.0,0.0,0.0,0.0
+SJ Srivastava,M Vijay,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+SJ Srivastava,M Ashwin,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+SJ Srivastava,MA Khote,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+SJ Srivastava,M Muralitharan,0.3333333333333333,0.3333333333333333,0.0,0.0,0.0,0.0,0.0,0.0,0.3333333333333333
+SJ Srivastava,NLTC Perera,0.5,0.0,0.0,0.0,0.0,0.0,0.0,0.5,0.0
+SJ Srivastava,NJ Rimmington,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+SJ Srivastava,NL McCullum,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+SJ Srivastava,NM Coulter-Nile,0.5,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.5
+SJ Srivastava,ND Doshi,0.2,0.2,0.2,0.0,0.0,0.0,0.2,0.0,0.2
+SJ Srivastava,NK Patel,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+SJ Srivastava,N Rana,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+SJ Srivastava,OA Shah,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+SJ Srivastava,Padmanabhan Prasanth,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+SJ Srivastava,DP Vijaykumar,0.5,0.5,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+SJ Srivastava,Palani Amarnath,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+SJ Srivastava,Pankaj Singh,0.2,0.2,0.2,0.0,0.2,0.0,0.0,0.0,0.2
+SJ Srivastava,P Sahu,0.25,0.0,0.25,0.0,0.25,0.0,0.0,0.0,0.25
+SJ Srivastava,Parvez Rasool,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+SJ Srivastava,P Awana,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+SJ Srivastava,PM Sarvesh Kumar,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+SJ Srivastava,PJ Cummins,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+SJ Srivastava,PC Valthaty,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0
+SJ Srivastava,PD Collingwood,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+SJ Srivastava,P Negi,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+SJ Srivastava,Pawan Suyal,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+SJ Srivastava,PP Chawla,0.25,0.25,0.0,0.0,0.25,0.0,0.0,0.25,0.0
+SJ Srivastava,PJ Sangwan,0.14285714285714285,0.14285714285714285,0.14285714285714285,0.0,0.14285714285714285,0.0,0.14285714285714285,0.14285714285714285,0.14285714285714285
+SJ Srivastava,PP Ojha,0.3333333333333333,0.3333333333333333,0.0,0.0,0.0,0.0,0.0,0.3333333333333333,0.0
+SJ Srivastava,P Parameswaran,0.3333333333333333,0.3333333333333333,0.0,0.0,0.3333333333333333,0.0,0.0,0.0,0.0
+SJ Srivastava,P Kumar,0.125,0.125,0.125,0.125,0.125,0.0,0.125,0.125,0.125
+SJ Srivastava,PV Tambe,0.3333333333333333,0.3333333333333333,0.3333333333333333,0.0,0.0,0.0,0.0,0.0,0.0
+SJ Srivastava,Rahil Akhilahmed Shaikh,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+SJ Srivastava,R Shukla,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+SJ Srivastava,R Sharma,0.3333333333333333,0.3333333333333333,0.0,0.0,0.0,0.0,0.0,0.0,0.3333333333333333
+SJ Srivastava,R Tewatia,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+SJ Srivastava,RV Gomez,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+SJ Srivastava,R Sathish,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+SJ Srivastava,R Bhatia,0.14285714285714285,0.14285714285714285,0.14285714285714285,0.0,0.14285714285714285,0.0,0.14285714285714285,0.14285714285714285,0.14285714285714285
+SJ Srivastava,R Bishnoi,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+SJ Srivastava,Rajesh Vithal Pawar,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+SJ Srivastava,RR Bhatkal,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+SJ Srivastava,RR Powar,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+SJ Srivastava,RR Sarwan,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+SJ Srivastava,S Gopal,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+SJ Srivastava,Ranadeb Ranjit Bose,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+SJ Srivastava,R Vinay Kumar,0.14285714285714285,0.14285714285714285,0.14285714285714285,0.0,0.14285714285714285,0.0,0.14285714285714285,0.14285714285714285,0.14285714285714285
+SJ Srivastava,R Ashwin,0.4,0.2,0.2,0.0,0.0,0.0,0.0,0.2,0.0
+SJ Srivastava,RS Bopara,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+SJ Srivastava,R Rampaul,0.3333333333333333,0.0,0.3333333333333333,0.0,0.0,0.0,0.0,0.3333333333333333,0.0
+SJ Srivastava,RA Jadeja,0.2,0.2,0.2,0.0,0.0,0.0,0.2,0.2,0.0
+SJ Srivastava,Raymond William Price,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+SJ Srivastava,RS Sodhi,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+SJ Srivastava,RT Ponting,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+SJ Srivastava,R Dhawan,0.25,0.25,0.25,0.0,0.0,0.0,0.0,0.0,0.25
+SJ Srivastava,RJ Quiney,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+SJ Srivastava,RJ Peterson,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+SJ Srivastava,RV Uthappa,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+SJ Srivastava,RE van der Merwe,0.3333333333333333,0.3333333333333333,0.0,0.0,0.0,0.0,0.0,0.3333333333333333,0.0
+SJ Srivastava,RR Raje,0.2,0.2,0.0,0.0,0.2,0.0,0.0,0.2,0.2
+SJ Srivastava,RS Gavaskar,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+SJ Srivastava,RG Sharma,0.3333333333333333,0.3333333333333333,0.0,0.0,0.0,0.0,0.0,0.3333333333333333,0.0
+SJ Srivastava,RG More,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+SJ Srivastava,RP Singh,0.16666666666666666,0.16666666666666666,0.16666666666666666,0.0,0.16666666666666666,0.0,0.0,0.16666666666666666,0.16666666666666666
+SJ Srivastava,Rujul Haren Bhatt,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+SJ Srivastava,RJ Harris,0.16666666666666666,0.16666666666666666,0.16666666666666666,0.0,0.16666666666666666,0.0,0.16666666666666666,0.0,0.16666666666666666
+SJ Srivastava,R McLaren,0.25,0.25,0.0,0.0,0.25,0.0,0.0,0.0,0.25
+SJ Srivastava,RN ten Doeschate,0.0,0.3333333333333333,0.3333333333333333,0.0,0.3333333333333333,0.0,0.0,0.0,0.0
+SJ Srivastava,R Ninan,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+SJ Srivastava,Sachin Baby,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+SJ Srivastava,SR Tendulkar,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+SJ Srivastava,S Rana,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+SJ Srivastava,Shahid Afridi,0.5,0.0,0.0,0.0,0.5,0.0,0.0,0.0,0.0
+SJ Srivastava,Salman Butt,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+SJ Srivastava,Samuel Badree,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+SJ Srivastava,ST Jayasuriya,0.3333333333333333,0.3333333333333333,0.0,0.0,0.0,0.0,0.0,0.0,0.3333333333333333
+SJ Srivastava,Sandeep Sharma,0.25,0.25,0.25,0.0,0.25,0.0,0.0,0.0,0.0
+SJ Srivastava,SB Bangar,0.3333333333333333,0.3333333333333333,0.0,0.0,0.3333333333333333,0.0,0.0,0.0,0.0
+SJ Srivastava,SV Samson,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+SJ Srivastava,S Ladda,0.3333333333333333,0.3333333333333333,0.0,0.0,0.0,0.0,0.3333333333333333,0.0,0.0
+SJ Srivastava,Saurabh Sushant Bandekar,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+SJ Srivastava,Iqbal Abdulla,0.25,0.25,0.25,0.0,0.25,0.0,0.0,0.0,0.0
+SJ Srivastava,SB Styris,0.3333333333333333,0.3333333333333333,0.0,0.0,0.3333333333333333,0.0,0.0,0.0,0.0
+SJ Srivastava,Scott Michael Boland,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+SJ Srivastava,SA Abbott,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+SJ Srivastava,SMSM Senanayake,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+SJ Srivastava,SL Malinga,0.2857142857142857,0.14285714285714285,0.14285714285714285,0.0,0.14285714285714285,0.0,0.0,0.14285714285714285,0.14285714285714285
+SJ Srivastava,SB Jakati,0.16666666666666666,0.16666666666666666,0.16666666666666666,0.0,0.16666666666666666,0.0,0.16666666666666666,0.16666666666666666,0.0
+SJ Srivastava,S Nadeem,0.3333333333333333,0.3333333333333333,0.0,0.0,0.0,0.0,0.0,0.0,0.3333333333333333
+SJ Srivastava,Shakib Al Hasan,0.3333333333333333,0.3333333333333333,0.0,0.0,0.0,0.0,0.0,0.3333333333333333,0.0
+SJ Srivastava,SE Bond,0.14285714285714285,0.14285714285714285,0.14285714285714285,0.0,0.14285714285714285,0.0,0.14285714285714285,0.14285714285714285,0.14285714285714285
+SJ Srivastava,SK Warne,0.25,0.25,0.0,0.0,0.25,0.0,0.0,0.25,0.0
+SJ Srivastava,SM Harwood,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+SJ Srivastava,SR Watson,0.2,0.2,0.0,0.0,0.2,0.0,0.0,0.2,0.2
+SJ Srivastava,S Sreesanth,0.5,0.5,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+SJ Srivastava,SN Thakur,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+SJ Srivastava,SE Marsh,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+SJ Srivastava,SM Pollock,0.3333333333333333,0.3333333333333333,0.0,0.0,0.3333333333333333,0.0,0.0,0.0,0.0
+SJ Srivastava,SW Tait,0.5,0.0,0.0,0.0,0.0,0.0,0.0,0.5,0.0
+SJ Srivastava,S Dhawan,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+SJ Srivastava,Shivam Sharma,0.3333333333333333,0.3333333333333333,0.0,0.0,0.3333333333333333,0.0,0.0,0.0,0.0
+SJ Srivastava,S Kaushik,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+SJ Srivastava,Shoaib Akhtar,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+SJ Srivastava,Shoaib Malik,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+SJ Srivastava,SS Shaikh,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+SJ Srivastava,SB Wagh,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+SJ Srivastava,Shrikant Shrihari Mundhe,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+SJ Srivastava,SD Chitnis,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+SJ Srivastava,S Kaul,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+SJ Srivastava,SK Trivedi,0.2857142857142857,0.14285714285714285,0.14285714285714285,0.0,0.14285714285714285,0.0,0.0,0.14285714285714285,0.14285714285714285
+SJ Srivastava,SM Katich,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+SJ Srivastava,Sohail Tanvir,0.25,0.25,0.25,0.0,0.0,0.0,0.0,0.25,0.0
+SJ Srivastava,SC Ganguly,0.2,0.2,0.2,0.0,0.2,0.0,0.0,0.2,0.0
+SJ Srivastava,Sourav Subrata Sarkar,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+SJ Srivastava,S Aravind,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+SJ Srivastava,S Sriram,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+SJ Srivastava,SPD Smith,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+SJ Srivastava,STR Binny,0.3333333333333333,0.3333333333333333,0.0,0.0,0.0,0.0,0.0,0.0,0.3333333333333333
+SJ Srivastava,S Badrinath,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+SJ Srivastava,S Tyagi,0.2,0.2,0.2,0.0,0.2,0.0,0.0,0.0,0.2
+SJ Srivastava,S Narwal,0.25,0.0,0.25,0.0,0.0,0.0,0.25,0.25,0.0
+SJ Srivastava,SB Joshi,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+SJ Srivastava,SP Narine,0.2,0.2,0.2,0.0,0.0,0.0,0.2,0.2,0.0
+SJ Srivastava,Sunny Gupta,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+SJ Srivastava,SK Raina,0.25,0.25,0.25,0.0,0.0,0.0,0.0,0.25,0.0
+SJ Srivastava,SA Yadav,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+SJ Srivastava,Swapnil Singh,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+SJ Srivastava,Shoaib Ahmed,0.5,0.5,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+SJ Srivastava,Tabraiz Shamsi,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+SJ Srivastava,Taduri Prakashchandra Sudhindra,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+SJ Srivastava,TM Srivastava,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+SJ Srivastava,Tanmay Mishra,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+SJ Srivastava,T Kohli,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+SJ Srivastava,T Taibu,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+SJ Srivastava,TM Dilshan,0.3333333333333333,0.3333333333333333,0.0,0.0,0.0,0.0,0.3333333333333333,0.0,0.0
+SJ Srivastava,Timil Kaushik Patel,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+SJ Srivastava,TG Southee,0.2,0.2,0.2,0.0,0.2,0.0,0.0,0.0,0.2
+SJ Srivastava,TL Suman,0.3333333333333333,0.3333333333333333,0.0,0.0,0.0,0.0,0.0,0.3333333333333333,0.0
+SJ Srivastava,TM Head,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+SJ Srivastava,Trent Alexander Boult,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+SJ Srivastava,T Henderson,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+SJ Srivastava,UA Birla,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+SJ Srivastava,Umar Gul,0.25,0.25,0.0,0.0,0.0,0.0,0.0,0.25,0.25
+SJ Srivastava,UT Yadav,0.2,0.2,0.2,0.0,0.2,0.0,0.0,0.2,0.0
+SJ Srivastava,VR Aaron,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+SJ Srivastava,V Pratap Singh,0.0,0.3333333333333333,0.3333333333333333,0.0,0.0,0.0,0.0,0.3333333333333333,0.0
+SJ Srivastava,S Vidyut,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+SJ Srivastava,Vijay Shankar,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+SJ Srivastava,VY Mahesh,0.14285714285714285,0.14285714285714285,0.14285714285714285,0.0,0.14285714285714285,0.0,0.14285714285714285,0.14285714285714285,0.14285714285714285
+SJ Srivastava,VRV Singh,0.25,0.25,0.25,0.0,0.0,0.0,0.0,0.0,0.25
+SJ Srivastava,VS Malik,0.25,0.25,0.25,0.0,0.0,0.0,0.0,0.0,0.25
+SJ Srivastava,VS Yeligati,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+SJ Srivastava,V Kohli,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+SJ Srivastava,V Sehwag,0.25,0.25,0.0,0.0,0.25,0.0,0.0,0.25,0.0
+SJ Srivastava,Visvajitsinh Dilipsinh Solanki,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+SJ Srivastava,WPUJC Vaas,0.3333333333333333,0.3333333333333333,0.0,0.0,0.0,0.0,0.0,0.3333333333333333,0.0
+SJ Srivastava,WD Parnell,0.2,0.2,0.0,0.0,0.2,0.0,0.0,0.2,0.2
+SJ Srivastava,WA Mota,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+SJ Srivastava,Y Gnaneswara Rao,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+SJ Srivastava,Y Venugopal Rao,0.16666666666666666,0.16666666666666666,0.16666666666666666,0.0,0.0,0.0,0.16666666666666666,0.16666666666666666,0.16666666666666666
+SJ Srivastava,Yashpal Singh,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+SJ Srivastava,Y Nagar,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+SJ Srivastava,YA Abdulla,0.2,0.2,0.0,0.0,0.2,0.0,0.0,0.2,0.2
+SJ Srivastava,YK Pathan,0.25,0.25,0.25,0.0,0.25,0.0,0.0,0.0,0.0
+SJ Srivastava,Yuvraj Singh,0.5,0.5,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+SJ Srivastava,YS Chahal,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+SJ Srivastava,Z Khan,0.25,0.25,0.25,0.0,0.25,0.0,0.0,0.0,0.0

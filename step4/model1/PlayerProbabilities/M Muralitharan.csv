@@ -1,0 +1,395 @@
+Batsman,Bowler,0s_prob,1s_prob,2s_prob,3s_prob,4s_prob,5s_prob,6s_prob,outs_prob,extras_prob
+M Muralitharan,AJ Finch,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+M Muralitharan,Aavishkar Madhav Salvi,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+M Muralitharan,A Mithun,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+M Muralitharan,A Mukund,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+M Muralitharan,AA Jhunjhunwala,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+M Muralitharan,AM Nayar,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+M Muralitharan,AS Raut,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+M Muralitharan,Abrar Anjum Kazi,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+M Muralitharan,AN Ahmed,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+M Muralitharan,AC Voges,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+M Muralitharan,AC Gilchrist,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+M Muralitharan,Adam Fraser Milne,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+M Muralitharan,Adam John Hollioake,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+M Muralitharan,A Zampa,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+M Muralitharan,AP Dole,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+M Muralitharan,AD Mascarenhas,0.3333333333333333,0.3333333333333333,0.0,0.0,0.0,0.0,0.0,0.0,0.3333333333333333
+M Muralitharan,AC Blizzard,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+M Muralitharan,AM Rahane,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+M Muralitharan,AB Agarkar,0.3333333333333333,0.3333333333333333,0.0,0.0,0.0,0.0,0.0,0.3333333333333333,0.0
+M Muralitharan,A Chandila,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+M Muralitharan,AD Nath,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+M Muralitharan,AR Patel,0.3333333333333333,0.3333333333333333,0.0,0.0,0.0,0.0,0.0,0.3333333333333333,0.0
+M Muralitharan,AC Thomas,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+M Muralitharan,AG Murtaza,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+M Muralitharan,A Mishra,0.3333333333333333,0.3333333333333333,0.0,0.0,0.0,0.0,0.0,0.3333333333333333,0.0
+M Muralitharan,A Singh,0.0,0.5,0.0,0.0,0.0,0.0,0.0,0.5,0.0
+M Muralitharan,A Uniyal,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+M Muralitharan,A Ashish Reddy,0.3333333333333333,0.0,0.0,0.0,0.0,0.0,0.0,0.3333333333333333,0.3333333333333333
+M Muralitharan,Anand Rajan,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+M Muralitharan,AD Russell,0.3333333333333333,0.3333333333333333,0.0,0.0,0.0,0.0,0.0,0.0,0.3333333333333333
+M Muralitharan,Andre Nel,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+M Muralitharan,AB McDonald,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+M Muralitharan,A Flintoff,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+M Muralitharan,A Symonds,0.0,0.3333333333333333,0.3333333333333333,0.0,0.0,0.0,0.0,0.3333333333333333,0.0
+M Muralitharan,Angelo Davis Mathews,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+M Muralitharan,A Kumble,0.5,0.0,0.0,0.0,0.0,0.0,0.0,0.5,0.0
+M Muralitharan,AA Chavan,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+M Muralitharan,Ankit Sharma,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+M Muralitharan,AS Rajpoot,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+M Muralitharan,AUK Pathan,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+M Muralitharan,A Nehra,0.25,0.25,0.0,0.0,0.0,0.0,0.0,0.25,0.25
+M Muralitharan,AA Noffke,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+M Muralitharan,AB Dinda,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0
+M Muralitharan,AL Menaria,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+M Muralitharan,Azhar Mahmood,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+M Muralitharan,B Akhil,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+M Muralitharan,BAW Mendis,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+M Muralitharan,BMAJ Mendis,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+M Muralitharan,BB Sran,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+M Muralitharan,BJ Rohrer,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+M Muralitharan,B Laughlin,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+M Muralitharan,BR Dunk,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+M Muralitharan,BCJ Cutting,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+M Muralitharan,Benjamin William Hilfenhaus,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+M Muralitharan,BE Hendricks,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+M Muralitharan,B Chipli,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+M Muralitharan,BA Bhatt,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+M Muralitharan,B Kumar,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+M Muralitharan,BB Samantray,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+M Muralitharan,Bipul Sharma,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+M Muralitharan,B Sumanth,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+M Muralitharan,BJ Hodge,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+M Muralitharan,Brett Geeves,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+M Muralitharan,B Lee,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+M Muralitharan,CL White,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+M Muralitharan,CR Brathwaite,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+M Muralitharan,CK Kapugedera,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+M Muralitharan,Chandrasekharan Ganapathy,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+M Muralitharan,CK Langeveldt,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+M Muralitharan,C Nanda,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+M Muralitharan,CA Lynn,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+M Muralitharan,CH Gayle,0.25,0.25,0.0,0.0,0.25,0.0,0.0,0.25,0.0
+M Muralitharan,CH Morris,0.25,0.25,0.25,0.0,0.25,0.0,0.0,0.0,0.0
+M Muralitharan,CJ Jordan,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+M Muralitharan,CJ McKay,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+M Muralitharan,CA Ingram,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+M Muralitharan,C Munro,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+M Muralitharan,CRD Fernando,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+M Muralitharan,CJ Anderson,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+M Muralitharan,DW Steyn,0.25,0.25,0.0,0.0,0.0,0.0,0.0,0.25,0.25
+M Muralitharan,DJ Harris,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+M Muralitharan,DL Vettori,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+M Muralitharan,DT Christian,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0
+M Muralitharan,DJG Sammy,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0
+M Muralitharan,DS Lehmann,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+M Muralitharan,DA Miller,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+M Muralitharan,DA Warner,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+M Muralitharan,DJ Jacobs,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+M Muralitharan,DJ Hussey,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+M Muralitharan,D Wiese,0.3333333333333333,0.3333333333333333,0.0,0.0,0.0,0.0,0.0,0.3333333333333333,0.0
+M Muralitharan,DJ Hooda,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+M Muralitharan,Deepak Lokandersingh Chahar,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+M Muralitharan,DNT Zoysa,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+M Muralitharan,DPMD Jayawardene,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+M Muralitharan,DB Ravi Teja,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+M Muralitharan,DS Kulkarni,0.5,0.0,0.0,0.0,0.0,0.0,0.0,0.5,0.0
+M Muralitharan,D du Preez,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+M Muralitharan,D Salunkhe,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+M Muralitharan,DP Nannes,0.5,0.25,0.0,0.0,0.0,0.0,0.0,0.25,0.0
+M Muralitharan,D Kalyankrishna,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+M Muralitharan,DJ Thornely,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+M Muralitharan,DJ Muthuswami,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+M Muralitharan,DAJ Bracewell,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+M Muralitharan,DE Bollinger,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+M Muralitharan,DJ Bravo,0.25,0.25,0.25,0.0,0.0,0.0,0.0,0.25,0.0
+M Muralitharan,DR Smith,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+M Muralitharan,FY Fazal,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+M Muralitharan,F Behardien,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+M Muralitharan,FH Edwards,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+M Muralitharan,F du Plessis,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+M Muralitharan,GH Vihari,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+M Muralitharan,Gagandeep Singh Toor,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+M Muralitharan,GB Hogg,0.5,0.5,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+M Muralitharan,GJ Bailey,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+M Muralitharan,GD McGrath,0.2,0.2,0.0,0.0,0.0,0.0,0.2,0.2,0.2
+M Muralitharan,GJ Maxwell,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+M Muralitharan,GC Smith,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+M Muralitharan,GR Napier,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+M Muralitharan,Gurinder Singh Sandhu,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+M Muralitharan,Gurkeerat Singh,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+M Muralitharan,Harbhajan Singh,0.25,0.25,0.25,0.0,0.0,0.0,0.0,0.25,0.0
+M Muralitharan,HH Pandya,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+M Muralitharan,Harmeet Singh Baddhan,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+M Muralitharan,Harmeet Singh,0.3333333333333333,0.3333333333333333,0.0,0.0,0.3333333333333333,0.0,0.0,0.0,0.0
+M Muralitharan,Harpreet Singh,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+M Muralitharan,HV Patel,0.5,0.5,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+M Muralitharan,HM Amla,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+M Muralitharan,S Randiv,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+M Muralitharan,IK Pathan,0.3333333333333333,0.3333333333333333,0.0,0.0,0.0,0.0,0.0,0.3333333333333333,0.0
+M Muralitharan,I Malhotra,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+M Muralitharan,IR Jaggi,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+M Muralitharan,I Sharma,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+M Muralitharan,IC Pandey,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+M Muralitharan,Ishwar Haribhai Chaudhary,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+M Muralitharan,JDP Oram,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+M Muralitharan,JH Kallis,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+M Muralitharan,J Suchith,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+M Muralitharan,Jagrit Anand,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+M Muralitharan,Jalaj Sahay Saxena,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+M Muralitharan,J Syed Mohammad,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+M Muralitharan,JDS Neesham,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+M Muralitharan,JEC Franklin,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+M Muralitharan,JP Faulkner,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0
+M Muralitharan,JR Hopes,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+M Muralitharan,Jaskaran Singh,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+M Muralitharan,JO Holder,0.5,0.5,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+M Muralitharan,JJ Bumrah,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0
+M Muralitharan,J Yadav,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+M Muralitharan,JD Unadkat,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+M Muralitharan,JP Duminy,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+M Muralitharan,JE Taylor,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+M Muralitharan,JD Ryder,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+M Muralitharan,Joginder Sharma,0.5,0.5,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+M Muralitharan,J Botha,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+M Muralitharan,JA Morkel,0.0,0.5,0.0,0.0,0.0,0.0,0.5,0.0,0.0
+M Muralitharan,JJ van der Wath,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+M Muralitharan,John Wayne Hastings,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+M Muralitharan,J Theron,0.5,0.5,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+M Muralitharan,JM Kemp,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+M Muralitharan,Kamran Khan,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+M Muralitharan,KS Williamson,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+M Muralitharan,KW Richardson,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0
+M Muralitharan,K Goel,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+M Muralitharan,Karanveer Singh,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+M Muralitharan,KV Sharma,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+M Muralitharan,KK Nair,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+M Muralitharan,Anureet Singh,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+M Muralitharan,KM Jadhav,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+M Muralitharan,KAJ Roach,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+M Muralitharan,KP Pietersen,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+M Muralitharan,KK Cooper,0.3333333333333333,0.3333333333333333,0.0,0.0,0.0,0.0,0.0,0.3333333333333333,0.0
+M Muralitharan,Abdur Razzak,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+M Muralitharan,KA Pollard,0.25,0.25,0.0,0.0,0.0,0.0,0.0,0.25,0.25
+M Muralitharan,KB Arun Karthik,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+M Muralitharan,KC Cariappa,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+M Muralitharan,KP Appanna,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+M Muralitharan,KD Karthik,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+M Muralitharan,Krishmar Santokie,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+M Muralitharan,K Upadhyay,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+M Muralitharan,KH Pandya,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+M Muralitharan,KMDN Kulasekara,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+M Muralitharan,Kuldeep Yadav,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+M Muralitharan,KJ Abbott,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+M Muralitharan,L Balaji,0.2,0.2,0.0,0.0,0.2,0.0,0.0,0.2,0.2
+M Muralitharan,LR Shukla,0.3333333333333333,0.3333333333333333,0.0,0.0,0.3333333333333333,0.0,0.0,0.0,0.0
+M Muralitharan,LA Carseldine,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+M Muralitharan,LMP Simmons,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+M Muralitharan,LPC Silva,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+M Muralitharan,L Ablish,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+M Muralitharan,LJ Wright,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+M Muralitharan,LRPL Taylor,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+M Muralitharan,T Thushara,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+M Muralitharan,MS Dhoni,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+M Muralitharan,M Ntini,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0
+M Muralitharan,Mandeep Singh,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+M Muralitharan,MK Pandey,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+M Muralitharan,MK Tiwary,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+M Muralitharan,MS Gony,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+M Muralitharan,M de Lange,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+M Muralitharan,MP Stoinis,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+M Muralitharan,MN Samuels,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+M Muralitharan,MJ Guptill,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+M Muralitharan,Mashrafe Mortaza,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+M Muralitharan,MA Agarwal,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+M Muralitharan,MEK Hussey,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+M Muralitharan,Michael Gertges Neser,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+M Muralitharan,Michael John Buchanan,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+M Muralitharan,MJ Clarke,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+M Muralitharan,MJ Lumb,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+M Muralitharan,MA Starc,0.2,0.2,0.2,0.0,0.0,0.0,0.0,0.2,0.2
+M Muralitharan,MG Johnson,0.5,0.5,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+M Muralitharan,MJ McClenaghan,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+M Muralitharan,MR Marsh,0.25,0.25,0.0,0.0,0.25,0.0,0.0,0.0,0.25
+M Muralitharan,M Manhas,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+M Muralitharan,MF Maharoof,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+M Muralitharan,Mohammad Ashraful,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+M Muralitharan,Mohammad Asif,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+M Muralitharan,Mohammad Hafeez,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+M Muralitharan,Imran Tahir,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+M Muralitharan,Mohammad Mustafizur Rahman,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+M Muralitharan,Younis Khan,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+M Muralitharan,Mohammed Shami,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+M Muralitharan,MM Sharma,0.3333333333333333,0.3333333333333333,0.0,0.0,0.0,0.0,0.0,0.3333333333333333,0.0
+M Muralitharan,Mohnish Bipinbhai Parmar,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+M Muralitharan,MC Henriques,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+M Muralitharan,M Morkel,0.3333333333333333,0.3333333333333333,0.0,0.0,0.0,0.0,0.0,0.3333333333333333,0.0
+M Muralitharan,MM Patel,0.5,0.0,0.0,0.0,0.5,0.0,0.0,0.0,0.0
+M Muralitharan,M Kartik,0.5,0.5,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+M Muralitharan,M Vijay,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+M Muralitharan,M Ashwin,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+M Muralitharan,MA Khote,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+M Muralitharan,NLTC Perera,0.0,0.5,0.0,0.0,0.0,0.0,0.0,0.5,0.0
+M Muralitharan,NJ Rimmington,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+M Muralitharan,NL McCullum,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+M Muralitharan,NM Coulter-Nile,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+M Muralitharan,ND Doshi,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+M Muralitharan,NK Patel,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+M Muralitharan,N Rana,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+M Muralitharan,OA Shah,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+M Muralitharan,Padmanabhan Prasanth,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+M Muralitharan,DP Vijaykumar,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+M Muralitharan,Palani Amarnath,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+M Muralitharan,Pankaj Singh,0.6,0.0,0.2,0.2,0.0,0.0,0.0,0.0,0.0
+M Muralitharan,P Sahu,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+M Muralitharan,Parvez Rasool,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+M Muralitharan,P Awana,0.3333333333333333,0.3333333333333333,0.0,0.0,0.0,0.0,0.0,0.0,0.3333333333333333
+M Muralitharan,PM Sarvesh Kumar,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+M Muralitharan,PJ Cummins,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+M Muralitharan,PC Valthaty,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+M Muralitharan,PD Collingwood,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+M Muralitharan,P Negi,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+M Muralitharan,Pawan Suyal,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+M Muralitharan,PP Chawla,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+M Muralitharan,PJ Sangwan,0.5,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.5
+M Muralitharan,PP Ojha,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+M Muralitharan,P Parameswaran,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+M Muralitharan,P Kumar,0.3333333333333333,0.3333333333333333,0.0,0.0,0.0,0.0,0.0,0.3333333333333333,0.0
+M Muralitharan,PV Tambe,0.5,0.0,0.0,0.0,0.0,0.0,0.0,0.5,0.0
+M Muralitharan,Rahil Akhilahmed Shaikh,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+M Muralitharan,R Shukla,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+M Muralitharan,R Sharma,0.3333333333333333,0.3333333333333333,0.0,0.0,0.0,0.0,0.3333333333333333,0.0,0.0
+M Muralitharan,R Tewatia,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+M Muralitharan,RV Gomez,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+M Muralitharan,R Sathish,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+M Muralitharan,R Bhatia,0.5,0.0,0.0,0.0,0.0,0.0,0.0,0.5,0.0
+M Muralitharan,R Bishnoi,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+M Muralitharan,Rajesh Vithal Pawar,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+M Muralitharan,RR Bhatkal,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+M Muralitharan,RR Powar,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+M Muralitharan,RR Sarwan,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+M Muralitharan,S Gopal,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+M Muralitharan,Ranadeb Ranjit Bose,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+M Muralitharan,R Vinay Kumar,0.0,0.3333333333333333,0.0,0.0,0.3333333333333333,0.0,0.0,0.3333333333333333,0.0
+M Muralitharan,R Ashwin,0.25,0.25,0.0,0.0,0.0,0.0,0.0,0.25,0.25
+M Muralitharan,RS Bopara,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+M Muralitharan,R Rampaul,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+M Muralitharan,RA Jadeja,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+M Muralitharan,Raymond William Price,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+M Muralitharan,RS Sodhi,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+M Muralitharan,RT Ponting,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+M Muralitharan,R Dhawan,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+M Muralitharan,RJ Quiney,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+M Muralitharan,RJ Peterson,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+M Muralitharan,RV Uthappa,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+M Muralitharan,RE van der Merwe,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+M Muralitharan,RR Raje,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+M Muralitharan,RS Gavaskar,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+M Muralitharan,RG Sharma,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+M Muralitharan,RG More,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+M Muralitharan,RP Singh,0.25,0.25,0.25,0.0,0.0,0.0,0.0,0.25,0.0
+M Muralitharan,Rujul Haren Bhatt,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+M Muralitharan,RJ Harris,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+M Muralitharan,R McLaren,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+M Muralitharan,RN ten Doeschate,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+M Muralitharan,R Ninan,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+M Muralitharan,Sachin Baby,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+M Muralitharan,SR Tendulkar,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+M Muralitharan,S Rana,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+M Muralitharan,Shahid Afridi,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+M Muralitharan,Salman Butt,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+M Muralitharan,Samuel Badree,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+M Muralitharan,ST Jayasuriya,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+M Muralitharan,Sandeep Sharma,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+M Muralitharan,SB Bangar,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+M Muralitharan,SV Samson,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+M Muralitharan,S Ladda,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+M Muralitharan,Saurabh Sushant Bandekar,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+M Muralitharan,Iqbal Abdulla,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+M Muralitharan,SB Styris,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+M Muralitharan,Scott Michael Boland,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+M Muralitharan,SA Abbott,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+M Muralitharan,SMSM Senanayake,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+M Muralitharan,SL Malinga,0.2,0.2,0.2,0.0,0.0,0.0,0.0,0.2,0.2
+M Muralitharan,SB Jakati,0.5,0.5,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+M Muralitharan,S Nadeem,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+M Muralitharan,Shakib Al Hasan,0.5,0.0,0.0,0.0,0.0,0.0,0.0,0.5,0.0
+M Muralitharan,SJ Srivastava,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+M Muralitharan,SE Bond,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+M Muralitharan,SK Warne,0.3333333333333333,0.3333333333333333,0.3333333333333333,0.0,0.0,0.0,0.0,0.0,0.0
+M Muralitharan,SM Harwood,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+M Muralitharan,SR Watson,0.2857142857142857,0.2857142857142857,0.14285714285714285,0.0,0.0,0.0,0.0,0.14285714285714285,0.14285714285714285
+M Muralitharan,S Sreesanth,0.25,0.25,0.0,0.25,0.0,0.0,0.0,0.0,0.25
+M Muralitharan,SN Thakur,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+M Muralitharan,SE Marsh,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+M Muralitharan,SM Pollock,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+M Muralitharan,SW Tait,0.25,0.25,0.25,0.0,0.0,0.0,0.0,0.0,0.25
+M Muralitharan,S Dhawan,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+M Muralitharan,Shivam Sharma,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+M Muralitharan,S Kaushik,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+M Muralitharan,Shoaib Akhtar,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+M Muralitharan,Shoaib Malik,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+M Muralitharan,SS Shaikh,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+M Muralitharan,SB Wagh,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+M Muralitharan,Shrikant Shrihari Mundhe,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+M Muralitharan,SD Chitnis,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+M Muralitharan,S Kaul,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+M Muralitharan,SK Trivedi,0.5,0.0,0.0,0.0,0.0,0.0,0.0,0.25,0.25
+M Muralitharan,SM Katich,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+M Muralitharan,Sohail Tanvir,0.2857142857142857,0.14285714285714285,0.14285714285714285,0.0,0.14285714285714285,0.0,0.0,0.14285714285714285,0.14285714285714285
+M Muralitharan,SC Ganguly,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+M Muralitharan,Sourav Subrata Sarkar,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+M Muralitharan,S Aravind,0.5,0.5,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+M Muralitharan,S Sriram,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+M Muralitharan,SPD Smith,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+M Muralitharan,STR Binny,0.25,0.25,0.25,0.0,0.25,0.0,0.0,0.0,0.0
+M Muralitharan,S Badrinath,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+M Muralitharan,S Tyagi,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+M Muralitharan,S Narwal,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+M Muralitharan,SB Joshi,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+M Muralitharan,SP Narine,0.3333333333333333,0.3333333333333333,0.0,0.0,0.0,0.0,0.0,0.3333333333333333,0.0
+M Muralitharan,Sunny Gupta,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+M Muralitharan,SK Raina,0.5,0.0,0.0,0.0,0.0,0.0,0.0,0.5,0.0
+M Muralitharan,SA Yadav,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+M Muralitharan,Swapnil Singh,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+M Muralitharan,Shoaib Ahmed,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+M Muralitharan,Tabraiz Shamsi,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+M Muralitharan,Taduri Prakashchandra Sudhindra,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+M Muralitharan,TM Srivastava,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+M Muralitharan,Tanmay Mishra,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+M Muralitharan,T Kohli,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+M Muralitharan,T Taibu,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+M Muralitharan,TM Dilshan,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+M Muralitharan,Timil Kaushik Patel,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+M Muralitharan,TG Southee,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+M Muralitharan,TL Suman,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+M Muralitharan,TM Head,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+M Muralitharan,Trent Alexander Boult,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+M Muralitharan,T Henderson,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+M Muralitharan,UA Birla,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+M Muralitharan,Umar Gul,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+M Muralitharan,UT Yadav,0.3333333333333333,0.3333333333333333,0.0,0.0,0.0,0.0,0.0,0.0,0.3333333333333333
+M Muralitharan,VR Aaron,0.25,0.25,0.0,0.0,0.25,0.0,0.0,0.0,0.25
+M Muralitharan,V Pratap Singh,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+M Muralitharan,S Vidyut,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+M Muralitharan,Vijay Shankar,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+M Muralitharan,VY Mahesh,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+M Muralitharan,VRV Singh,0.3333333333333333,0.3333333333333333,0.0,0.0,0.0,0.0,0.0,0.0,0.3333333333333333
+M Muralitharan,VS Malik,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+M Muralitharan,VS Yeligati,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+M Muralitharan,V Kohli,0.3333333333333333,0.3333333333333333,0.0,0.0,0.0,0.0,0.0,0.0,0.3333333333333333
+M Muralitharan,V Sehwag,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+M Muralitharan,Visvajitsinh Dilipsinh Solanki,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+M Muralitharan,WPUJC Vaas,0.0,0.5,0.0,0.0,0.0,0.0,0.0,0.5,0.0
+M Muralitharan,WD Parnell,0.3333333333333333,0.3333333333333333,0.0,0.0,0.0,0.0,0.0,0.0,0.3333333333333333
+M Muralitharan,WA Mota,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+M Muralitharan,Y Gnaneswara Rao,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+M Muralitharan,Y Venugopal Rao,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+M Muralitharan,Yashpal Singh,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+M Muralitharan,Y Nagar,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+M Muralitharan,YA Abdulla,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+M Muralitharan,YK Pathan,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+M Muralitharan,Yuvraj Singh,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+M Muralitharan,YS Chahal,0.0,0.3333333333333333,0.0,0.0,0.3333333333333333,0.0,0.0,0.3333333333333333,0.0
+M Muralitharan,Z Khan,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0

@@ -1,0 +1,395 @@
+Batsman,Bowler,0s_prob,1s_prob,2s_prob,3s_prob,4s_prob,5s_prob,6s_prob,outs_prob,extras_prob
+GD McGrath,AJ Finch,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+GD McGrath,Aavishkar Madhav Salvi,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+GD McGrath,A Mithun,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+GD McGrath,A Mukund,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+GD McGrath,AA Jhunjhunwala,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+GD McGrath,AM Nayar,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+GD McGrath,AS Raut,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+GD McGrath,Abrar Anjum Kazi,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+GD McGrath,AN Ahmed,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+GD McGrath,AC Voges,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+GD McGrath,AC Gilchrist,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+GD McGrath,Adam Fraser Milne,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+GD McGrath,Adam John Hollioake,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+GD McGrath,A Zampa,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+GD McGrath,AP Dole,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+GD McGrath,AD Mascarenhas,0.3333333333333333,0.3333333333333333,0.0,0.0,0.0,0.0,0.0,0.0,0.3333333333333333
+GD McGrath,AC Blizzard,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+GD McGrath,AM Rahane,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+GD McGrath,AB Agarkar,0.3333333333333333,0.3333333333333333,0.0,0.0,0.0,0.0,0.0,0.3333333333333333,0.0
+GD McGrath,A Chandila,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+GD McGrath,AD Nath,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+GD McGrath,AR Patel,0.3333333333333333,0.3333333333333333,0.0,0.0,0.0,0.0,0.0,0.3333333333333333,0.0
+GD McGrath,AC Thomas,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+GD McGrath,AG Murtaza,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+GD McGrath,A Mishra,0.3333333333333333,0.3333333333333333,0.0,0.0,0.0,0.0,0.0,0.3333333333333333,0.0
+GD McGrath,A Singh,0.0,0.5,0.0,0.0,0.0,0.0,0.0,0.5,0.0
+GD McGrath,A Uniyal,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+GD McGrath,A Ashish Reddy,0.3333333333333333,0.0,0.0,0.0,0.0,0.0,0.0,0.3333333333333333,0.3333333333333333
+GD McGrath,Anand Rajan,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+GD McGrath,AD Russell,0.3333333333333333,0.3333333333333333,0.0,0.0,0.0,0.0,0.0,0.0,0.3333333333333333
+GD McGrath,Andre Nel,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+GD McGrath,AB McDonald,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+GD McGrath,A Flintoff,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+GD McGrath,A Symonds,0.0,0.3333333333333333,0.3333333333333333,0.0,0.0,0.0,0.0,0.3333333333333333,0.0
+GD McGrath,Angelo Davis Mathews,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+GD McGrath,A Kumble,0.5,0.0,0.0,0.0,0.0,0.0,0.0,0.5,0.0
+GD McGrath,AA Chavan,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+GD McGrath,Ankit Sharma,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+GD McGrath,AS Rajpoot,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+GD McGrath,AUK Pathan,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+GD McGrath,A Nehra,0.25,0.25,0.0,0.0,0.0,0.0,0.0,0.25,0.25
+GD McGrath,AA Noffke,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+GD McGrath,AB Dinda,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0
+GD McGrath,AL Menaria,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+GD McGrath,Azhar Mahmood,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+GD McGrath,B Akhil,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+GD McGrath,BAW Mendis,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+GD McGrath,BMAJ Mendis,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+GD McGrath,BB Sran,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+GD McGrath,BJ Rohrer,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+GD McGrath,B Laughlin,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+GD McGrath,BR Dunk,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+GD McGrath,BCJ Cutting,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+GD McGrath,Benjamin William Hilfenhaus,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+GD McGrath,BE Hendricks,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+GD McGrath,B Chipli,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+GD McGrath,BA Bhatt,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+GD McGrath,B Kumar,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+GD McGrath,BB Samantray,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+GD McGrath,Bipul Sharma,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+GD McGrath,B Sumanth,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+GD McGrath,BJ Hodge,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+GD McGrath,Brett Geeves,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+GD McGrath,B Lee,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+GD McGrath,CL White,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+GD McGrath,CR Brathwaite,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+GD McGrath,CK Kapugedera,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+GD McGrath,Chandrasekharan Ganapathy,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+GD McGrath,CK Langeveldt,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+GD McGrath,C Nanda,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+GD McGrath,CA Lynn,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+GD McGrath,CH Gayle,0.25,0.25,0.0,0.0,0.25,0.0,0.0,0.25,0.0
+GD McGrath,CH Morris,0.25,0.25,0.25,0.0,0.25,0.0,0.0,0.0,0.0
+GD McGrath,CJ Jordan,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+GD McGrath,CJ McKay,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+GD McGrath,CA Ingram,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+GD McGrath,C Munro,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+GD McGrath,CRD Fernando,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+GD McGrath,CJ Anderson,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+GD McGrath,DW Steyn,0.25,0.25,0.0,0.0,0.0,0.0,0.0,0.25,0.25
+GD McGrath,DJ Harris,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+GD McGrath,DL Vettori,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+GD McGrath,DT Christian,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0
+GD McGrath,DJG Sammy,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0
+GD McGrath,DS Lehmann,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+GD McGrath,DA Miller,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+GD McGrath,DA Warner,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+GD McGrath,DJ Jacobs,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+GD McGrath,DJ Hussey,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+GD McGrath,D Wiese,0.3333333333333333,0.3333333333333333,0.0,0.0,0.0,0.0,0.0,0.3333333333333333,0.0
+GD McGrath,DJ Hooda,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+GD McGrath,Deepak Lokandersingh Chahar,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+GD McGrath,DNT Zoysa,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+GD McGrath,DPMD Jayawardene,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+GD McGrath,DB Ravi Teja,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+GD McGrath,DS Kulkarni,0.5,0.0,0.0,0.0,0.0,0.0,0.0,0.5,0.0
+GD McGrath,D du Preez,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+GD McGrath,D Salunkhe,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+GD McGrath,DP Nannes,0.3333333333333333,0.3333333333333333,0.0,0.0,0.0,0.0,0.0,0.3333333333333333,0.0
+GD McGrath,D Kalyankrishna,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+GD McGrath,DJ Thornely,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+GD McGrath,DJ Muthuswami,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+GD McGrath,DAJ Bracewell,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+GD McGrath,DE Bollinger,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+GD McGrath,DJ Bravo,0.25,0.25,0.25,0.0,0.0,0.0,0.0,0.25,0.0
+GD McGrath,DR Smith,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+GD McGrath,FY Fazal,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+GD McGrath,F Behardien,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+GD McGrath,FH Edwards,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+GD McGrath,F du Plessis,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+GD McGrath,GH Vihari,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+GD McGrath,Gagandeep Singh Toor,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+GD McGrath,GB Hogg,0.5,0.5,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+GD McGrath,GJ Bailey,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+GD McGrath,GJ Maxwell,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+GD McGrath,GC Smith,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+GD McGrath,GR Napier,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+GD McGrath,Gurinder Singh Sandhu,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+GD McGrath,Gurkeerat Singh,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+GD McGrath,Harbhajan Singh,0.25,0.25,0.25,0.0,0.0,0.0,0.0,0.25,0.0
+GD McGrath,HH Pandya,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+GD McGrath,Harmeet Singh Baddhan,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+GD McGrath,Harmeet Singh,0.3333333333333333,0.3333333333333333,0.0,0.0,0.3333333333333333,0.0,0.0,0.0,0.0
+GD McGrath,Harpreet Singh,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+GD McGrath,HV Patel,0.5,0.5,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+GD McGrath,HM Amla,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+GD McGrath,S Randiv,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+GD McGrath,IK Pathan,0.3333333333333333,0.3333333333333333,0.0,0.0,0.0,0.0,0.0,0.3333333333333333,0.0
+GD McGrath,I Malhotra,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+GD McGrath,IR Jaggi,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+GD McGrath,I Sharma,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+GD McGrath,IC Pandey,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+GD McGrath,Ishwar Haribhai Chaudhary,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+GD McGrath,JDP Oram,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+GD McGrath,JH Kallis,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+GD McGrath,J Suchith,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+GD McGrath,Jagrit Anand,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+GD McGrath,Jalaj Sahay Saxena,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+GD McGrath,J Syed Mohammad,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+GD McGrath,JDS Neesham,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+GD McGrath,JEC Franklin,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+GD McGrath,JP Faulkner,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0
+GD McGrath,JR Hopes,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+GD McGrath,Jaskaran Singh,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+GD McGrath,JO Holder,0.5,0.5,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+GD McGrath,JJ Bumrah,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0
+GD McGrath,J Yadav,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+GD McGrath,JD Unadkat,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+GD McGrath,JP Duminy,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+GD McGrath,JE Taylor,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+GD McGrath,JD Ryder,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+GD McGrath,Joginder Sharma,0.5,0.5,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+GD McGrath,J Botha,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+GD McGrath,JA Morkel,0.0,0.5,0.0,0.0,0.0,0.0,0.5,0.0,0.0
+GD McGrath,JJ van der Wath,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+GD McGrath,John Wayne Hastings,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+GD McGrath,J Theron,0.5,0.5,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+GD McGrath,JM Kemp,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+GD McGrath,Kamran Khan,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+GD McGrath,KS Williamson,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+GD McGrath,KW Richardson,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0
+GD McGrath,K Goel,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+GD McGrath,Karanveer Singh,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+GD McGrath,KV Sharma,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+GD McGrath,KK Nair,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+GD McGrath,Anureet Singh,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+GD McGrath,KM Jadhav,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+GD McGrath,KAJ Roach,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+GD McGrath,KP Pietersen,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+GD McGrath,KK Cooper,0.3333333333333333,0.3333333333333333,0.0,0.0,0.0,0.0,0.0,0.3333333333333333,0.0
+GD McGrath,Abdur Razzak,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+GD McGrath,KA Pollard,0.25,0.25,0.0,0.0,0.0,0.0,0.0,0.25,0.25
+GD McGrath,KB Arun Karthik,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+GD McGrath,KC Cariappa,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+GD McGrath,KP Appanna,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+GD McGrath,KD Karthik,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+GD McGrath,Krishmar Santokie,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+GD McGrath,K Upadhyay,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+GD McGrath,KH Pandya,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+GD McGrath,KMDN Kulasekara,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+GD McGrath,Kuldeep Yadav,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+GD McGrath,KJ Abbott,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+GD McGrath,L Balaji,0.2,0.2,0.0,0.0,0.2,0.0,0.0,0.2,0.2
+GD McGrath,LR Shukla,0.3333333333333333,0.3333333333333333,0.0,0.0,0.3333333333333333,0.0,0.0,0.0,0.0
+GD McGrath,LA Carseldine,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+GD McGrath,LMP Simmons,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+GD McGrath,LPC Silva,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+GD McGrath,L Ablish,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+GD McGrath,LJ Wright,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+GD McGrath,LRPL Taylor,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+GD McGrath,T Thushara,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+GD McGrath,MS Dhoni,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+GD McGrath,M Ntini,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0
+GD McGrath,Mandeep Singh,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+GD McGrath,MK Pandey,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+GD McGrath,MK Tiwary,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+GD McGrath,MS Gony,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+GD McGrath,M de Lange,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+GD McGrath,MP Stoinis,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+GD McGrath,MN Samuels,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+GD McGrath,MJ Guptill,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+GD McGrath,Mashrafe Mortaza,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+GD McGrath,MA Agarwal,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+GD McGrath,MEK Hussey,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+GD McGrath,Michael Gertges Neser,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+GD McGrath,Michael John Buchanan,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+GD McGrath,MJ Clarke,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+GD McGrath,MJ Lumb,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+GD McGrath,MA Starc,0.2,0.2,0.2,0.0,0.0,0.0,0.0,0.2,0.2
+GD McGrath,MG Johnson,0.5,0.5,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+GD McGrath,MJ McClenaghan,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+GD McGrath,MR Marsh,0.25,0.25,0.0,0.0,0.25,0.0,0.0,0.0,0.25
+GD McGrath,M Manhas,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+GD McGrath,MF Maharoof,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+GD McGrath,Mohammad Ashraful,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+GD McGrath,Mohammad Asif,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+GD McGrath,Mohammad Hafeez,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+GD McGrath,Imran Tahir,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+GD McGrath,Mohammad Mustafizur Rahman,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+GD McGrath,Younis Khan,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+GD McGrath,Mohammed Shami,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+GD McGrath,MM Sharma,0.3333333333333333,0.3333333333333333,0.0,0.0,0.0,0.0,0.0,0.3333333333333333,0.0
+GD McGrath,Mohnish Bipinbhai Parmar,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+GD McGrath,MC Henriques,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+GD McGrath,M Morkel,0.3333333333333333,0.3333333333333333,0.0,0.0,0.0,0.0,0.0,0.3333333333333333,0.0
+GD McGrath,MM Patel,0.6666666666666666,0.0,0.0,0.0,0.3333333333333333,0.0,0.0,0.0,0.0
+GD McGrath,M Kartik,0.5,0.5,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+GD McGrath,M Vijay,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+GD McGrath,M Ashwin,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+GD McGrath,MA Khote,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+GD McGrath,M Muralitharan,0.3333333333333333,0.3333333333333333,0.0,0.0,0.0,0.0,0.0,0.3333333333333333,0.0
+GD McGrath,NLTC Perera,0.0,0.5,0.0,0.0,0.0,0.0,0.0,0.5,0.0
+GD McGrath,NJ Rimmington,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+GD McGrath,NL McCullum,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+GD McGrath,NM Coulter-Nile,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+GD McGrath,ND Doshi,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+GD McGrath,NK Patel,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+GD McGrath,N Rana,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+GD McGrath,OA Shah,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+GD McGrath,Padmanabhan Prasanth,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+GD McGrath,DP Vijaykumar,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+GD McGrath,Palani Amarnath,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+GD McGrath,Pankaj Singh,0.3333333333333333,0.0,0.3333333333333333,0.3333333333333333,0.0,0.0,0.0,0.0,0.0
+GD McGrath,P Sahu,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+GD McGrath,Parvez Rasool,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+GD McGrath,P Awana,0.3333333333333333,0.3333333333333333,0.0,0.0,0.0,0.0,0.0,0.0,0.3333333333333333
+GD McGrath,PM Sarvesh Kumar,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+GD McGrath,PJ Cummins,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+GD McGrath,PC Valthaty,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+GD McGrath,PD Collingwood,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+GD McGrath,P Negi,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+GD McGrath,Pawan Suyal,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+GD McGrath,PP Chawla,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+GD McGrath,PJ Sangwan,0.5,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.5
+GD McGrath,PP Ojha,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+GD McGrath,P Parameswaran,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+GD McGrath,P Kumar,0.3333333333333333,0.3333333333333333,0.0,0.0,0.0,0.0,0.0,0.3333333333333333,0.0
+GD McGrath,PV Tambe,0.5,0.0,0.0,0.0,0.0,0.0,0.0,0.5,0.0
+GD McGrath,Rahil Akhilahmed Shaikh,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+GD McGrath,R Shukla,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+GD McGrath,R Sharma,0.3333333333333333,0.3333333333333333,0.0,0.0,0.0,0.0,0.3333333333333333,0.0,0.0
+GD McGrath,R Tewatia,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+GD McGrath,RV Gomez,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+GD McGrath,R Sathish,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+GD McGrath,R Bhatia,0.5,0.0,0.0,0.0,0.0,0.0,0.0,0.5,0.0
+GD McGrath,R Bishnoi,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+GD McGrath,Rajesh Vithal Pawar,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+GD McGrath,RR Bhatkal,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+GD McGrath,RR Powar,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+GD McGrath,RR Sarwan,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+GD McGrath,S Gopal,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+GD McGrath,Ranadeb Ranjit Bose,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+GD McGrath,R Vinay Kumar,0.0,0.3333333333333333,0.0,0.0,0.3333333333333333,0.0,0.0,0.3333333333333333,0.0
+GD McGrath,R Ashwin,0.25,0.25,0.0,0.0,0.0,0.0,0.0,0.25,0.25
+GD McGrath,RS Bopara,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+GD McGrath,R Rampaul,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+GD McGrath,RA Jadeja,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+GD McGrath,Raymond William Price,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+GD McGrath,RS Sodhi,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+GD McGrath,RT Ponting,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+GD McGrath,R Dhawan,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+GD McGrath,RJ Quiney,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+GD McGrath,RJ Peterson,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+GD McGrath,RV Uthappa,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+GD McGrath,RE van der Merwe,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+GD McGrath,RR Raje,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+GD McGrath,RS Gavaskar,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+GD McGrath,RG Sharma,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+GD McGrath,RG More,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+GD McGrath,RP Singh,0.25,0.25,0.25,0.0,0.0,0.0,0.0,0.25,0.0
+GD McGrath,Rujul Haren Bhatt,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+GD McGrath,RJ Harris,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+GD McGrath,R McLaren,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+GD McGrath,RN ten Doeschate,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+GD McGrath,R Ninan,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+GD McGrath,Sachin Baby,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+GD McGrath,SR Tendulkar,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+GD McGrath,S Rana,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+GD McGrath,Shahid Afridi,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+GD McGrath,Salman Butt,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+GD McGrath,Samuel Badree,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+GD McGrath,ST Jayasuriya,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+GD McGrath,Sandeep Sharma,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+GD McGrath,SB Bangar,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+GD McGrath,SV Samson,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+GD McGrath,S Ladda,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+GD McGrath,Saurabh Sushant Bandekar,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+GD McGrath,Iqbal Abdulla,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+GD McGrath,SB Styris,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+GD McGrath,Scott Michael Boland,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+GD McGrath,SA Abbott,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+GD McGrath,SMSM Senanayake,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+GD McGrath,SL Malinga,0.2,0.2,0.2,0.0,0.0,0.0,0.0,0.2,0.2
+GD McGrath,SB Jakati,0.5,0.5,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+GD McGrath,S Nadeem,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+GD McGrath,Shakib Al Hasan,0.5,0.0,0.0,0.0,0.0,0.0,0.0,0.5,0.0
+GD McGrath,SJ Srivastava,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+GD McGrath,SE Bond,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+GD McGrath,SK Warne,0.3333333333333333,0.3333333333333333,0.3333333333333333,0.0,0.0,0.0,0.0,0.0,0.0
+GD McGrath,SM Harwood,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+GD McGrath,SR Watson,0.2,0.2,0.2,0.0,0.0,0.0,0.0,0.2,0.2
+GD McGrath,S Sreesanth,0.25,0.25,0.0,0.25,0.0,0.0,0.0,0.0,0.25
+GD McGrath,SN Thakur,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+GD McGrath,SE Marsh,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+GD McGrath,SM Pollock,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+GD McGrath,SW Tait,0.25,0.25,0.25,0.0,0.0,0.0,0.0,0.0,0.25
+GD McGrath,S Dhawan,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+GD McGrath,Shivam Sharma,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+GD McGrath,S Kaushik,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+GD McGrath,Shoaib Akhtar,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+GD McGrath,Shoaib Malik,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+GD McGrath,SS Shaikh,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+GD McGrath,SB Wagh,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+GD McGrath,Shrikant Shrihari Mundhe,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+GD McGrath,SD Chitnis,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+GD McGrath,S Kaul,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+GD McGrath,SK Trivedi,0.3333333333333333,0.0,0.0,0.0,0.0,0.0,0.0,0.3333333333333333,0.3333333333333333
+GD McGrath,SM Katich,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+GD McGrath,Sohail Tanvir,0.16666666666666666,0.16666666666666666,0.16666666666666666,0.0,0.16666666666666666,0.0,0.0,0.16666666666666666,0.16666666666666666
+GD McGrath,SC Ganguly,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+GD McGrath,Sourav Subrata Sarkar,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+GD McGrath,S Aravind,0.5,0.5,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+GD McGrath,S Sriram,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+GD McGrath,SPD Smith,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+GD McGrath,STR Binny,0.25,0.25,0.25,0.0,0.25,0.0,0.0,0.0,0.0
+GD McGrath,S Badrinath,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+GD McGrath,S Tyagi,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+GD McGrath,S Narwal,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+GD McGrath,SB Joshi,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+GD McGrath,SP Narine,0.3333333333333333,0.3333333333333333,0.0,0.0,0.0,0.0,0.0,0.3333333333333333,0.0
+GD McGrath,Sunny Gupta,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+GD McGrath,SK Raina,0.5,0.0,0.0,0.0,0.0,0.0,0.0,0.5,0.0
+GD McGrath,SA Yadav,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+GD McGrath,Swapnil Singh,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+GD McGrath,Shoaib Ahmed,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+GD McGrath,Tabraiz Shamsi,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+GD McGrath,Taduri Prakashchandra Sudhindra,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+GD McGrath,TM Srivastava,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+GD McGrath,Tanmay Mishra,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+GD McGrath,T Kohli,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+GD McGrath,T Taibu,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+GD McGrath,TM Dilshan,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+GD McGrath,Timil Kaushik Patel,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+GD McGrath,TG Southee,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+GD McGrath,TL Suman,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+GD McGrath,TM Head,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+GD McGrath,Trent Alexander Boult,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+GD McGrath,T Henderson,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+GD McGrath,UA Birla,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+GD McGrath,Umar Gul,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+GD McGrath,UT Yadav,0.3333333333333333,0.3333333333333333,0.0,0.0,0.0,0.0,0.0,0.0,0.3333333333333333
+GD McGrath,VR Aaron,0.25,0.25,0.0,0.0,0.25,0.0,0.0,0.0,0.25
+GD McGrath,V Pratap Singh,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+GD McGrath,S Vidyut,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+GD McGrath,Vijay Shankar,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+GD McGrath,VY Mahesh,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+GD McGrath,VRV Singh,0.3333333333333333,0.3333333333333333,0.0,0.0,0.0,0.0,0.0,0.0,0.3333333333333333
+GD McGrath,VS Malik,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+GD McGrath,VS Yeligati,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+GD McGrath,V Kohli,0.3333333333333333,0.3333333333333333,0.0,0.0,0.0,0.0,0.0,0.0,0.3333333333333333
+GD McGrath,V Sehwag,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+GD McGrath,Visvajitsinh Dilipsinh Solanki,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+GD McGrath,WPUJC Vaas,0.0,0.5,0.0,0.0,0.0,0.0,0.0,0.5,0.0
+GD McGrath,WD Parnell,0.3333333333333333,0.3333333333333333,0.0,0.0,0.0,0.0,0.0,0.0,0.3333333333333333
+GD McGrath,WA Mota,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+GD McGrath,Y Gnaneswara Rao,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+GD McGrath,Y Venugopal Rao,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+GD McGrath,Yashpal Singh,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+GD McGrath,Y Nagar,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+GD McGrath,YA Abdulla,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+GD McGrath,YK Pathan,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+GD McGrath,Yuvraj Singh,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+GD McGrath,YS Chahal,0.0,0.3333333333333333,0.0,0.0,0.3333333333333333,0.0,0.0,0.3333333333333333,0.0
+GD McGrath,Z Khan,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0

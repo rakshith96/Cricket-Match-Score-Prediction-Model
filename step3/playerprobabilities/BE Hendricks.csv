@@ -1,0 +1,395 @@
+Batsman,Bowler,0s_prob,1s_prob,2s_prob,3s_prob,4s_prob,5s_prob,6s_prob,outs_prob,extras_prob
+BE Hendricks,AJ Finch,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+BE Hendricks,Aavishkar Madhav Salvi,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+BE Hendricks,A Mithun,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+BE Hendricks,A Mukund,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+BE Hendricks,AA Jhunjhunwala,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+BE Hendricks,AM Nayar,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+BE Hendricks,AS Raut,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+BE Hendricks,Abrar Anjum Kazi,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+BE Hendricks,AN Ahmed,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+BE Hendricks,AC Voges,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+BE Hendricks,AC Gilchrist,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+BE Hendricks,Adam Fraser Milne,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+BE Hendricks,Adam John Hollioake,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+BE Hendricks,A Zampa,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+BE Hendricks,AP Dole,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+BE Hendricks,AD Mascarenhas,0.3333333333333333,0.3333333333333333,0.0,0.0,0.0,0.0,0.0,0.0,0.3333333333333333
+BE Hendricks,AC Blizzard,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+BE Hendricks,AM Rahane,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+BE Hendricks,AB Agarkar,0.3333333333333333,0.3333333333333333,0.0,0.0,0.0,0.0,0.0,0.3333333333333333,0.0
+BE Hendricks,A Chandila,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+BE Hendricks,AD Nath,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+BE Hendricks,AR Patel,0.3333333333333333,0.3333333333333333,0.0,0.0,0.0,0.0,0.0,0.3333333333333333,0.0
+BE Hendricks,AC Thomas,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+BE Hendricks,AG Murtaza,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+BE Hendricks,A Mishra,0.3333333333333333,0.3333333333333333,0.0,0.0,0.0,0.0,0.0,0.3333333333333333,0.0
+BE Hendricks,A Singh,0.0,0.5,0.0,0.0,0.0,0.0,0.0,0.5,0.0
+BE Hendricks,A Uniyal,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+BE Hendricks,A Ashish Reddy,0.3333333333333333,0.0,0.0,0.0,0.0,0.0,0.0,0.3333333333333333,0.3333333333333333
+BE Hendricks,Anand Rajan,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+BE Hendricks,AD Russell,0.3333333333333333,0.3333333333333333,0.0,0.0,0.0,0.0,0.0,0.0,0.3333333333333333
+BE Hendricks,Andre Nel,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+BE Hendricks,AB McDonald,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+BE Hendricks,A Flintoff,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+BE Hendricks,A Symonds,0.0,0.3333333333333333,0.3333333333333333,0.0,0.0,0.0,0.0,0.3333333333333333,0.0
+BE Hendricks,Angelo Davis Mathews,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+BE Hendricks,A Kumble,0.5,0.0,0.0,0.0,0.0,0.0,0.0,0.5,0.0
+BE Hendricks,AA Chavan,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+BE Hendricks,Ankit Sharma,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+BE Hendricks,AS Rajpoot,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+BE Hendricks,AUK Pathan,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+BE Hendricks,A Nehra,0.25,0.25,0.0,0.0,0.0,0.0,0.0,0.25,0.25
+BE Hendricks,AA Noffke,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+BE Hendricks,AB Dinda,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0
+BE Hendricks,AL Menaria,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+BE Hendricks,Azhar Mahmood,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+BE Hendricks,B Akhil,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+BE Hendricks,BAW Mendis,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+BE Hendricks,BMAJ Mendis,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+BE Hendricks,BB Sran,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+BE Hendricks,BJ Rohrer,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+BE Hendricks,B Laughlin,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+BE Hendricks,BR Dunk,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+BE Hendricks,BCJ Cutting,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+BE Hendricks,Benjamin William Hilfenhaus,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+BE Hendricks,B Chipli,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+BE Hendricks,BA Bhatt,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+BE Hendricks,B Kumar,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+BE Hendricks,BB Samantray,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+BE Hendricks,Bipul Sharma,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+BE Hendricks,B Sumanth,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+BE Hendricks,BJ Hodge,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+BE Hendricks,Brett Geeves,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+BE Hendricks,B Lee,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+BE Hendricks,CL White,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+BE Hendricks,CR Brathwaite,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+BE Hendricks,CK Kapugedera,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+BE Hendricks,Chandrasekharan Ganapathy,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+BE Hendricks,CK Langeveldt,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+BE Hendricks,C Nanda,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+BE Hendricks,CA Lynn,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+BE Hendricks,CH Gayle,0.25,0.25,0.0,0.0,0.25,0.0,0.0,0.25,0.0
+BE Hendricks,CH Morris,0.25,0.25,0.25,0.0,0.25,0.0,0.0,0.0,0.0
+BE Hendricks,CJ Jordan,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+BE Hendricks,CJ McKay,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+BE Hendricks,CA Ingram,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+BE Hendricks,C Munro,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+BE Hendricks,CRD Fernando,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+BE Hendricks,CJ Anderson,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+BE Hendricks,DW Steyn,0.25,0.25,0.0,0.0,0.0,0.0,0.0,0.25,0.25
+BE Hendricks,DJ Harris,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+BE Hendricks,DL Vettori,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+BE Hendricks,DT Christian,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0
+BE Hendricks,DJG Sammy,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0
+BE Hendricks,DS Lehmann,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+BE Hendricks,DA Miller,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+BE Hendricks,DA Warner,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+BE Hendricks,DJ Jacobs,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+BE Hendricks,DJ Hussey,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+BE Hendricks,D Wiese,0.3333333333333333,0.3333333333333333,0.0,0.0,0.0,0.0,0.0,0.3333333333333333,0.0
+BE Hendricks,DJ Hooda,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+BE Hendricks,Deepak Lokandersingh Chahar,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+BE Hendricks,DNT Zoysa,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+BE Hendricks,DPMD Jayawardene,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+BE Hendricks,DB Ravi Teja,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+BE Hendricks,DS Kulkarni,0.5,0.0,0.0,0.0,0.0,0.0,0.0,0.5,0.0
+BE Hendricks,D du Preez,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+BE Hendricks,D Salunkhe,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+BE Hendricks,DP Nannes,0.3333333333333333,0.3333333333333333,0.0,0.0,0.0,0.0,0.0,0.3333333333333333,0.0
+BE Hendricks,D Kalyankrishna,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+BE Hendricks,DJ Thornely,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+BE Hendricks,DJ Muthuswami,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+BE Hendricks,DAJ Bracewell,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+BE Hendricks,DE Bollinger,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+BE Hendricks,DJ Bravo,0.25,0.25,0.25,0.0,0.0,0.0,0.0,0.25,0.0
+BE Hendricks,DR Smith,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+BE Hendricks,FY Fazal,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+BE Hendricks,F Behardien,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+BE Hendricks,FH Edwards,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+BE Hendricks,F du Plessis,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+BE Hendricks,GH Vihari,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+BE Hendricks,Gagandeep Singh Toor,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+BE Hendricks,GB Hogg,0.5,0.5,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+BE Hendricks,GJ Bailey,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+BE Hendricks,GD McGrath,0.2,0.2,0.0,0.0,0.0,0.0,0.2,0.2,0.2
+BE Hendricks,GJ Maxwell,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+BE Hendricks,GC Smith,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+BE Hendricks,GR Napier,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+BE Hendricks,Gurinder Singh Sandhu,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+BE Hendricks,Gurkeerat Singh,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+BE Hendricks,Harbhajan Singh,0.25,0.25,0.25,0.0,0.0,0.0,0.0,0.25,0.0
+BE Hendricks,HH Pandya,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+BE Hendricks,Harmeet Singh Baddhan,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+BE Hendricks,Harmeet Singh,0.3333333333333333,0.3333333333333333,0.0,0.0,0.3333333333333333,0.0,0.0,0.0,0.0
+BE Hendricks,Harpreet Singh,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+BE Hendricks,HV Patel,0.5,0.5,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+BE Hendricks,HM Amla,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+BE Hendricks,S Randiv,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+BE Hendricks,IK Pathan,0.3333333333333333,0.3333333333333333,0.0,0.0,0.0,0.0,0.0,0.3333333333333333,0.0
+BE Hendricks,I Malhotra,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+BE Hendricks,IR Jaggi,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+BE Hendricks,I Sharma,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+BE Hendricks,IC Pandey,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+BE Hendricks,Ishwar Haribhai Chaudhary,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+BE Hendricks,JDP Oram,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+BE Hendricks,JH Kallis,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+BE Hendricks,J Suchith,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+BE Hendricks,Jagrit Anand,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+BE Hendricks,Jalaj Sahay Saxena,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+BE Hendricks,J Syed Mohammad,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+BE Hendricks,JDS Neesham,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+BE Hendricks,JEC Franklin,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+BE Hendricks,JP Faulkner,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0
+BE Hendricks,JR Hopes,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+BE Hendricks,Jaskaran Singh,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+BE Hendricks,JO Holder,0.5,0.5,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+BE Hendricks,JJ Bumrah,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0
+BE Hendricks,J Yadav,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+BE Hendricks,JD Unadkat,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+BE Hendricks,JP Duminy,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+BE Hendricks,JE Taylor,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+BE Hendricks,JD Ryder,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+BE Hendricks,Joginder Sharma,0.5,0.5,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+BE Hendricks,J Botha,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+BE Hendricks,JA Morkel,0.0,0.5,0.0,0.0,0.0,0.0,0.5,0.0,0.0
+BE Hendricks,JJ van der Wath,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+BE Hendricks,John Wayne Hastings,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+BE Hendricks,J Theron,0.5,0.5,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+BE Hendricks,JM Kemp,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+BE Hendricks,Kamran Khan,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+BE Hendricks,KS Williamson,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+BE Hendricks,KW Richardson,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0
+BE Hendricks,K Goel,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+BE Hendricks,Karanveer Singh,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+BE Hendricks,KV Sharma,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+BE Hendricks,KK Nair,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+BE Hendricks,Anureet Singh,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+BE Hendricks,KM Jadhav,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+BE Hendricks,KAJ Roach,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+BE Hendricks,KP Pietersen,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+BE Hendricks,KK Cooper,0.3333333333333333,0.3333333333333333,0.0,0.0,0.0,0.0,0.0,0.3333333333333333,0.0
+BE Hendricks,Abdur Razzak,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+BE Hendricks,KA Pollard,0.25,0.25,0.0,0.0,0.0,0.0,0.0,0.25,0.25
+BE Hendricks,KB Arun Karthik,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+BE Hendricks,KC Cariappa,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+BE Hendricks,KP Appanna,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+BE Hendricks,KD Karthik,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+BE Hendricks,Krishmar Santokie,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+BE Hendricks,K Upadhyay,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+BE Hendricks,KH Pandya,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+BE Hendricks,KMDN Kulasekara,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+BE Hendricks,Kuldeep Yadav,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+BE Hendricks,KJ Abbott,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+BE Hendricks,L Balaji,0.2,0.2,0.0,0.0,0.2,0.0,0.0,0.2,0.2
+BE Hendricks,LR Shukla,0.3333333333333333,0.3333333333333333,0.0,0.0,0.3333333333333333,0.0,0.0,0.0,0.0
+BE Hendricks,LA Carseldine,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+BE Hendricks,LMP Simmons,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+BE Hendricks,LPC Silva,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+BE Hendricks,L Ablish,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+BE Hendricks,LJ Wright,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+BE Hendricks,LRPL Taylor,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+BE Hendricks,T Thushara,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+BE Hendricks,MS Dhoni,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+BE Hendricks,M Ntini,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0
+BE Hendricks,Mandeep Singh,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+BE Hendricks,MK Pandey,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+BE Hendricks,MK Tiwary,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+BE Hendricks,MS Gony,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+BE Hendricks,M de Lange,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+BE Hendricks,MP Stoinis,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+BE Hendricks,MN Samuels,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+BE Hendricks,MJ Guptill,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+BE Hendricks,Mashrafe Mortaza,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+BE Hendricks,MA Agarwal,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+BE Hendricks,MEK Hussey,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+BE Hendricks,Michael Gertges Neser,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+BE Hendricks,Michael John Buchanan,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+BE Hendricks,MJ Clarke,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+BE Hendricks,MJ Lumb,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+BE Hendricks,MA Starc,0.2,0.2,0.2,0.0,0.0,0.0,0.0,0.2,0.2
+BE Hendricks,MG Johnson,0.5,0.5,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+BE Hendricks,MJ McClenaghan,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+BE Hendricks,MR Marsh,0.25,0.25,0.0,0.0,0.25,0.0,0.0,0.0,0.25
+BE Hendricks,M Manhas,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+BE Hendricks,MF Maharoof,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+BE Hendricks,Mohammad Ashraful,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+BE Hendricks,Mohammad Asif,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+BE Hendricks,Mohammad Hafeez,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+BE Hendricks,Imran Tahir,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+BE Hendricks,Mohammad Mustafizur Rahman,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+BE Hendricks,Younis Khan,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+BE Hendricks,Mohammed Shami,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+BE Hendricks,MM Sharma,0.3333333333333333,0.3333333333333333,0.0,0.0,0.0,0.0,0.0,0.3333333333333333,0.0
+BE Hendricks,Mohnish Bipinbhai Parmar,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+BE Hendricks,MC Henriques,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+BE Hendricks,M Morkel,0.3333333333333333,0.3333333333333333,0.0,0.0,0.0,0.0,0.0,0.3333333333333333,0.0
+BE Hendricks,MM Patel,0.5,0.0,0.0,0.0,0.5,0.0,0.0,0.0,0.0
+BE Hendricks,M Kartik,0.5,0.5,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+BE Hendricks,M Vijay,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+BE Hendricks,M Ashwin,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+BE Hendricks,MA Khote,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+BE Hendricks,M Muralitharan,0.3333333333333333,0.3333333333333333,0.0,0.0,0.0,0.0,0.0,0.3333333333333333,0.0
+BE Hendricks,NLTC Perera,0.0,0.5,0.0,0.0,0.0,0.0,0.0,0.5,0.0
+BE Hendricks,NJ Rimmington,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+BE Hendricks,NL McCullum,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+BE Hendricks,NM Coulter-Nile,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+BE Hendricks,ND Doshi,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+BE Hendricks,NK Patel,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+BE Hendricks,N Rana,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+BE Hendricks,OA Shah,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+BE Hendricks,Padmanabhan Prasanth,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+BE Hendricks,DP Vijaykumar,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+BE Hendricks,Palani Amarnath,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+BE Hendricks,Pankaj Singh,0.3333333333333333,0.0,0.3333333333333333,0.3333333333333333,0.0,0.0,0.0,0.0,0.0
+BE Hendricks,P Sahu,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+BE Hendricks,Parvez Rasool,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+BE Hendricks,P Awana,0.3333333333333333,0.3333333333333333,0.0,0.0,0.0,0.0,0.0,0.0,0.3333333333333333
+BE Hendricks,PM Sarvesh Kumar,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+BE Hendricks,PJ Cummins,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+BE Hendricks,PC Valthaty,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+BE Hendricks,PD Collingwood,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+BE Hendricks,P Negi,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+BE Hendricks,Pawan Suyal,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+BE Hendricks,PP Chawla,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+BE Hendricks,PJ Sangwan,0.5,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.5
+BE Hendricks,PP Ojha,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+BE Hendricks,P Parameswaran,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+BE Hendricks,P Kumar,0.3333333333333333,0.3333333333333333,0.0,0.0,0.0,0.0,0.0,0.3333333333333333,0.0
+BE Hendricks,PV Tambe,0.5,0.0,0.0,0.0,0.0,0.0,0.0,0.5,0.0
+BE Hendricks,Rahil Akhilahmed Shaikh,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+BE Hendricks,R Shukla,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+BE Hendricks,R Sharma,0.3333333333333333,0.3333333333333333,0.0,0.0,0.0,0.0,0.3333333333333333,0.0,0.0
+BE Hendricks,R Tewatia,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+BE Hendricks,RV Gomez,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+BE Hendricks,R Sathish,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+BE Hendricks,R Bhatia,0.5,0.0,0.0,0.0,0.0,0.0,0.0,0.5,0.0
+BE Hendricks,R Bishnoi,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+BE Hendricks,Rajesh Vithal Pawar,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+BE Hendricks,RR Bhatkal,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+BE Hendricks,RR Powar,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+BE Hendricks,RR Sarwan,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+BE Hendricks,S Gopal,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+BE Hendricks,Ranadeb Ranjit Bose,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+BE Hendricks,R Vinay Kumar,0.0,0.3333333333333333,0.0,0.0,0.3333333333333333,0.0,0.0,0.3333333333333333,0.0
+BE Hendricks,R Ashwin,0.25,0.25,0.0,0.0,0.0,0.0,0.0,0.25,0.25
+BE Hendricks,RS Bopara,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+BE Hendricks,R Rampaul,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+BE Hendricks,RA Jadeja,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+BE Hendricks,Raymond William Price,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+BE Hendricks,RS Sodhi,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+BE Hendricks,RT Ponting,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+BE Hendricks,R Dhawan,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+BE Hendricks,RJ Quiney,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+BE Hendricks,RJ Peterson,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+BE Hendricks,RV Uthappa,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+BE Hendricks,RE van der Merwe,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+BE Hendricks,RR Raje,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+BE Hendricks,RS Gavaskar,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+BE Hendricks,RG Sharma,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+BE Hendricks,RG More,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+BE Hendricks,RP Singh,0.25,0.25,0.25,0.0,0.0,0.0,0.0,0.25,0.0
+BE Hendricks,Rujul Haren Bhatt,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+BE Hendricks,RJ Harris,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+BE Hendricks,R McLaren,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+BE Hendricks,RN ten Doeschate,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+BE Hendricks,R Ninan,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+BE Hendricks,Sachin Baby,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+BE Hendricks,SR Tendulkar,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+BE Hendricks,S Rana,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+BE Hendricks,Shahid Afridi,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+BE Hendricks,Salman Butt,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+BE Hendricks,Samuel Badree,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+BE Hendricks,ST Jayasuriya,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+BE Hendricks,Sandeep Sharma,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+BE Hendricks,SB Bangar,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+BE Hendricks,SV Samson,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+BE Hendricks,S Ladda,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+BE Hendricks,Saurabh Sushant Bandekar,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+BE Hendricks,Iqbal Abdulla,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+BE Hendricks,SB Styris,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+BE Hendricks,Scott Michael Boland,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+BE Hendricks,SA Abbott,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+BE Hendricks,SMSM Senanayake,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+BE Hendricks,SL Malinga,0.2,0.2,0.2,0.0,0.0,0.0,0.0,0.2,0.2
+BE Hendricks,SB Jakati,0.5,0.5,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+BE Hendricks,S Nadeem,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+BE Hendricks,Shakib Al Hasan,0.5,0.0,0.0,0.0,0.0,0.0,0.0,0.5,0.0
+BE Hendricks,SJ Srivastava,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+BE Hendricks,SE Bond,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+BE Hendricks,SK Warne,0.3333333333333333,0.3333333333333333,0.3333333333333333,0.0,0.0,0.0,0.0,0.0,0.0
+BE Hendricks,SM Harwood,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+BE Hendricks,SR Watson,0.2,0.2,0.2,0.0,0.0,0.0,0.0,0.2,0.2
+BE Hendricks,S Sreesanth,0.25,0.25,0.0,0.25,0.0,0.0,0.0,0.0,0.25
+BE Hendricks,SN Thakur,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+BE Hendricks,SE Marsh,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+BE Hendricks,SM Pollock,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+BE Hendricks,SW Tait,0.25,0.25,0.25,0.0,0.0,0.0,0.0,0.0,0.25
+BE Hendricks,S Dhawan,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+BE Hendricks,Shivam Sharma,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+BE Hendricks,S Kaushik,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+BE Hendricks,Shoaib Akhtar,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+BE Hendricks,Shoaib Malik,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+BE Hendricks,SS Shaikh,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+BE Hendricks,SB Wagh,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+BE Hendricks,Shrikant Shrihari Mundhe,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+BE Hendricks,SD Chitnis,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+BE Hendricks,S Kaul,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+BE Hendricks,SK Trivedi,0.3333333333333333,0.0,0.0,0.0,0.0,0.0,0.0,0.3333333333333333,0.3333333333333333
+BE Hendricks,SM Katich,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+BE Hendricks,Sohail Tanvir,0.16666666666666666,0.16666666666666666,0.16666666666666666,0.0,0.16666666666666666,0.0,0.0,0.16666666666666666,0.16666666666666666
+BE Hendricks,SC Ganguly,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+BE Hendricks,Sourav Subrata Sarkar,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+BE Hendricks,S Aravind,0.5,0.5,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+BE Hendricks,S Sriram,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+BE Hendricks,SPD Smith,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+BE Hendricks,STR Binny,0.25,0.25,0.25,0.0,0.25,0.0,0.0,0.0,0.0
+BE Hendricks,S Badrinath,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+BE Hendricks,S Tyagi,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+BE Hendricks,S Narwal,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+BE Hendricks,SB Joshi,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+BE Hendricks,SP Narine,0.3333333333333333,0.3333333333333333,0.0,0.0,0.0,0.0,0.0,0.3333333333333333,0.0
+BE Hendricks,Sunny Gupta,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+BE Hendricks,SK Raina,0.5,0.0,0.0,0.0,0.0,0.0,0.0,0.5,0.0
+BE Hendricks,SA Yadav,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+BE Hendricks,Swapnil Singh,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+BE Hendricks,Shoaib Ahmed,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+BE Hendricks,Tabraiz Shamsi,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+BE Hendricks,Taduri Prakashchandra Sudhindra,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+BE Hendricks,TM Srivastava,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+BE Hendricks,Tanmay Mishra,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+BE Hendricks,T Kohli,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+BE Hendricks,T Taibu,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+BE Hendricks,TM Dilshan,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+BE Hendricks,Timil Kaushik Patel,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+BE Hendricks,TG Southee,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+BE Hendricks,TL Suman,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+BE Hendricks,TM Head,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+BE Hendricks,Trent Alexander Boult,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+BE Hendricks,T Henderson,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+BE Hendricks,UA Birla,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+BE Hendricks,Umar Gul,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+BE Hendricks,UT Yadav,0.3333333333333333,0.3333333333333333,0.0,0.0,0.0,0.0,0.0,0.0,0.3333333333333333
+BE Hendricks,VR Aaron,0.25,0.25,0.0,0.0,0.25,0.0,0.0,0.0,0.25
+BE Hendricks,V Pratap Singh,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+BE Hendricks,S Vidyut,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+BE Hendricks,Vijay Shankar,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+BE Hendricks,VY Mahesh,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+BE Hendricks,VRV Singh,0.3333333333333333,0.3333333333333333,0.0,0.0,0.0,0.0,0.0,0.0,0.3333333333333333
+BE Hendricks,VS Malik,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+BE Hendricks,VS Yeligati,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+BE Hendricks,V Kohli,0.3333333333333333,0.3333333333333333,0.0,0.0,0.0,0.0,0.0,0.0,0.3333333333333333
+BE Hendricks,V Sehwag,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+BE Hendricks,Visvajitsinh Dilipsinh Solanki,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+BE Hendricks,WPUJC Vaas,0.0,0.5,0.0,0.0,0.0,0.0,0.0,0.5,0.0
+BE Hendricks,WD Parnell,0.3333333333333333,0.3333333333333333,0.0,0.0,0.0,0.0,0.0,0.0,0.3333333333333333
+BE Hendricks,WA Mota,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+BE Hendricks,Y Gnaneswara Rao,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+BE Hendricks,Y Venugopal Rao,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+BE Hendricks,Yashpal Singh,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+BE Hendricks,Y Nagar,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+BE Hendricks,YA Abdulla,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+BE Hendricks,YK Pathan,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+BE Hendricks,Yuvraj Singh,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+BE Hendricks,YS Chahal,0.0,0.3333333333333333,0.0,0.0,0.3333333333333333,0.0,0.0,0.3333333333333333,0.0
+BE Hendricks,Z Khan,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0

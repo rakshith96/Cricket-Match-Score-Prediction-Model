@@ -1,0 +1,395 @@
+Batsman,Bowler,0s_prob,1s_prob,2s_prob,3s_prob,4s_prob,5s_prob,6s_prob,outs_prob,extras_prob
+Sandeep Sharma,AJ Finch,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Sandeep Sharma,Aavishkar Madhav Salvi,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Sandeep Sharma,A Mithun,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Sandeep Sharma,A Mukund,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Sandeep Sharma,AA Jhunjhunwala,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Sandeep Sharma,AM Nayar,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Sandeep Sharma,AS Raut,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Sandeep Sharma,Abrar Anjum Kazi,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Sandeep Sharma,AN Ahmed,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Sandeep Sharma,AC Voges,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Sandeep Sharma,AC Gilchrist,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Sandeep Sharma,Adam Fraser Milne,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Sandeep Sharma,Adam John Hollioake,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Sandeep Sharma,A Zampa,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Sandeep Sharma,AP Dole,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Sandeep Sharma,AD Mascarenhas,0.3333333333333333,0.3333333333333333,0.0,0.0,0.0,0.0,0.0,0.0,0.3333333333333333
+Sandeep Sharma,AC Blizzard,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Sandeep Sharma,AM Rahane,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Sandeep Sharma,AB Agarkar,0.3333333333333333,0.3333333333333333,0.0,0.0,0.0,0.0,0.0,0.3333333333333333,0.0
+Sandeep Sharma,A Chandila,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Sandeep Sharma,AD Nath,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Sandeep Sharma,AR Patel,0.3333333333333333,0.3333333333333333,0.0,0.0,0.0,0.0,0.0,0.3333333333333333,0.0
+Sandeep Sharma,AC Thomas,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Sandeep Sharma,AG Murtaza,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Sandeep Sharma,A Mishra,0.3333333333333333,0.3333333333333333,0.0,0.0,0.0,0.0,0.0,0.3333333333333333,0.0
+Sandeep Sharma,A Singh,0.0,0.5,0.0,0.0,0.0,0.0,0.0,0.5,0.0
+Sandeep Sharma,A Uniyal,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Sandeep Sharma,A Ashish Reddy,0.3333333333333333,0.0,0.0,0.0,0.0,0.0,0.0,0.3333333333333333,0.3333333333333333
+Sandeep Sharma,Anand Rajan,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Sandeep Sharma,AD Russell,0.3333333333333333,0.3333333333333333,0.0,0.0,0.0,0.0,0.0,0.0,0.3333333333333333
+Sandeep Sharma,Andre Nel,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Sandeep Sharma,AB McDonald,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Sandeep Sharma,A Flintoff,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Sandeep Sharma,A Symonds,0.0,0.3333333333333333,0.3333333333333333,0.0,0.0,0.0,0.0,0.3333333333333333,0.0
+Sandeep Sharma,Angelo Davis Mathews,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Sandeep Sharma,A Kumble,0.5,0.0,0.0,0.0,0.0,0.0,0.0,0.5,0.0
+Sandeep Sharma,AA Chavan,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Sandeep Sharma,Ankit Sharma,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Sandeep Sharma,AS Rajpoot,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Sandeep Sharma,AUK Pathan,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Sandeep Sharma,A Nehra,0.25,0.25,0.0,0.0,0.0,0.0,0.0,0.25,0.25
+Sandeep Sharma,AA Noffke,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Sandeep Sharma,AB Dinda,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0
+Sandeep Sharma,AL Menaria,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Sandeep Sharma,Azhar Mahmood,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Sandeep Sharma,B Akhil,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Sandeep Sharma,BAW Mendis,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Sandeep Sharma,BMAJ Mendis,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Sandeep Sharma,BB Sran,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Sandeep Sharma,BJ Rohrer,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Sandeep Sharma,B Laughlin,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Sandeep Sharma,BR Dunk,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Sandeep Sharma,BCJ Cutting,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Sandeep Sharma,Benjamin William Hilfenhaus,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Sandeep Sharma,BE Hendricks,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Sandeep Sharma,B Chipli,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Sandeep Sharma,BA Bhatt,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Sandeep Sharma,B Kumar,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Sandeep Sharma,BB Samantray,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Sandeep Sharma,Bipul Sharma,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Sandeep Sharma,B Sumanth,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Sandeep Sharma,BJ Hodge,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Sandeep Sharma,Brett Geeves,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Sandeep Sharma,B Lee,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Sandeep Sharma,CL White,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Sandeep Sharma,CR Brathwaite,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Sandeep Sharma,CK Kapugedera,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Sandeep Sharma,Chandrasekharan Ganapathy,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Sandeep Sharma,CK Langeveldt,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Sandeep Sharma,C Nanda,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Sandeep Sharma,CA Lynn,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Sandeep Sharma,CH Gayle,0.16666666666666666,0.5,0.0,0.0,0.16666666666666666,0.0,0.0,0.16666666666666666,0.0
+Sandeep Sharma,CH Morris,0.25,0.25,0.25,0.0,0.25,0.0,0.0,0.0,0.0
+Sandeep Sharma,CJ Jordan,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Sandeep Sharma,CJ McKay,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Sandeep Sharma,CA Ingram,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Sandeep Sharma,C Munro,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Sandeep Sharma,CRD Fernando,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Sandeep Sharma,CJ Anderson,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Sandeep Sharma,DW Steyn,0.25,0.25,0.0,0.0,0.0,0.0,0.0,0.25,0.25
+Sandeep Sharma,DJ Harris,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Sandeep Sharma,DL Vettori,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Sandeep Sharma,DT Christian,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0
+Sandeep Sharma,DJG Sammy,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0
+Sandeep Sharma,DS Lehmann,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Sandeep Sharma,DA Miller,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Sandeep Sharma,DA Warner,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Sandeep Sharma,DJ Jacobs,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Sandeep Sharma,DJ Hussey,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Sandeep Sharma,D Wiese,0.4,0.4,0.0,0.0,0.0,0.0,0.0,0.2,0.0
+Sandeep Sharma,DJ Hooda,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Sandeep Sharma,Deepak Lokandersingh Chahar,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Sandeep Sharma,DNT Zoysa,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Sandeep Sharma,DPMD Jayawardene,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Sandeep Sharma,DB Ravi Teja,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Sandeep Sharma,DS Kulkarni,0.5,0.0,0.0,0.0,0.0,0.0,0.0,0.5,0.0
+Sandeep Sharma,D du Preez,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Sandeep Sharma,D Salunkhe,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Sandeep Sharma,DP Nannes,0.3333333333333333,0.3333333333333333,0.0,0.0,0.0,0.0,0.0,0.3333333333333333,0.0
+Sandeep Sharma,D Kalyankrishna,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Sandeep Sharma,DJ Thornely,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Sandeep Sharma,DJ Muthuswami,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Sandeep Sharma,DAJ Bracewell,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Sandeep Sharma,DE Bollinger,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Sandeep Sharma,DJ Bravo,0.25,0.25,0.25,0.0,0.0,0.0,0.0,0.25,0.0
+Sandeep Sharma,DR Smith,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Sandeep Sharma,FY Fazal,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Sandeep Sharma,F Behardien,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Sandeep Sharma,FH Edwards,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Sandeep Sharma,F du Plessis,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Sandeep Sharma,GH Vihari,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Sandeep Sharma,Gagandeep Singh Toor,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Sandeep Sharma,GB Hogg,0.5,0.5,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Sandeep Sharma,GJ Bailey,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Sandeep Sharma,GD McGrath,0.2,0.2,0.0,0.0,0.0,0.0,0.2,0.2,0.2
+Sandeep Sharma,GJ Maxwell,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Sandeep Sharma,GC Smith,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Sandeep Sharma,GR Napier,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Sandeep Sharma,Gurinder Singh Sandhu,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Sandeep Sharma,Gurkeerat Singh,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Sandeep Sharma,Harbhajan Singh,0.25,0.25,0.25,0.0,0.0,0.0,0.0,0.25,0.0
+Sandeep Sharma,HH Pandya,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Sandeep Sharma,Harmeet Singh Baddhan,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Sandeep Sharma,Harmeet Singh,0.3333333333333333,0.3333333333333333,0.0,0.0,0.3333333333333333,0.0,0.0,0.0,0.0
+Sandeep Sharma,Harpreet Singh,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Sandeep Sharma,HV Patel,0.5,0.5,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Sandeep Sharma,HM Amla,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Sandeep Sharma,S Randiv,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Sandeep Sharma,IK Pathan,0.5,0.25,0.0,0.0,0.0,0.0,0.0,0.25,0.0
+Sandeep Sharma,I Malhotra,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Sandeep Sharma,IR Jaggi,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Sandeep Sharma,I Sharma,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Sandeep Sharma,IC Pandey,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Sandeep Sharma,Ishwar Haribhai Chaudhary,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Sandeep Sharma,JDP Oram,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Sandeep Sharma,JH Kallis,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Sandeep Sharma,J Suchith,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Sandeep Sharma,Jagrit Anand,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Sandeep Sharma,Jalaj Sahay Saxena,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Sandeep Sharma,J Syed Mohammad,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Sandeep Sharma,JDS Neesham,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Sandeep Sharma,JEC Franklin,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Sandeep Sharma,JP Faulkner,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0
+Sandeep Sharma,JR Hopes,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Sandeep Sharma,Jaskaran Singh,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Sandeep Sharma,JO Holder,0.5,0.5,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Sandeep Sharma,JJ Bumrah,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0
+Sandeep Sharma,J Yadav,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Sandeep Sharma,JD Unadkat,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Sandeep Sharma,JP Duminy,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Sandeep Sharma,JE Taylor,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Sandeep Sharma,JD Ryder,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Sandeep Sharma,Joginder Sharma,0.5,0.5,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Sandeep Sharma,J Botha,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Sandeep Sharma,JA Morkel,0.0,0.5,0.0,0.0,0.0,0.0,0.5,0.0,0.0
+Sandeep Sharma,JJ van der Wath,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Sandeep Sharma,John Wayne Hastings,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Sandeep Sharma,J Theron,0.5,0.5,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Sandeep Sharma,JM Kemp,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Sandeep Sharma,Kamran Khan,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Sandeep Sharma,KS Williamson,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Sandeep Sharma,KW Richardson,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0
+Sandeep Sharma,K Goel,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Sandeep Sharma,Karanveer Singh,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Sandeep Sharma,KV Sharma,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Sandeep Sharma,KK Nair,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Sandeep Sharma,Anureet Singh,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Sandeep Sharma,KM Jadhav,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Sandeep Sharma,KAJ Roach,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Sandeep Sharma,KP Pietersen,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Sandeep Sharma,KK Cooper,0.3333333333333333,0.3333333333333333,0.0,0.0,0.0,0.0,0.0,0.3333333333333333,0.0
+Sandeep Sharma,Abdur Razzak,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Sandeep Sharma,KA Pollard,0.25,0.25,0.0,0.0,0.0,0.0,0.0,0.25,0.25
+Sandeep Sharma,KB Arun Karthik,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Sandeep Sharma,KC Cariappa,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Sandeep Sharma,KP Appanna,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Sandeep Sharma,KD Karthik,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Sandeep Sharma,Krishmar Santokie,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Sandeep Sharma,K Upadhyay,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Sandeep Sharma,KH Pandya,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Sandeep Sharma,KMDN Kulasekara,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Sandeep Sharma,Kuldeep Yadav,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Sandeep Sharma,KJ Abbott,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Sandeep Sharma,L Balaji,0.2,0.2,0.0,0.0,0.2,0.0,0.0,0.2,0.2
+Sandeep Sharma,LR Shukla,0.3333333333333333,0.3333333333333333,0.0,0.0,0.3333333333333333,0.0,0.0,0.0,0.0
+Sandeep Sharma,LA Carseldine,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Sandeep Sharma,LMP Simmons,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Sandeep Sharma,LPC Silva,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Sandeep Sharma,L Ablish,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Sandeep Sharma,LJ Wright,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Sandeep Sharma,LRPL Taylor,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Sandeep Sharma,T Thushara,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Sandeep Sharma,MS Dhoni,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Sandeep Sharma,M Ntini,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0
+Sandeep Sharma,Mandeep Singh,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Sandeep Sharma,MK Pandey,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Sandeep Sharma,MK Tiwary,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Sandeep Sharma,MS Gony,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Sandeep Sharma,M de Lange,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Sandeep Sharma,MP Stoinis,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Sandeep Sharma,MN Samuels,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Sandeep Sharma,MJ Guptill,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Sandeep Sharma,Mashrafe Mortaza,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Sandeep Sharma,MA Agarwal,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Sandeep Sharma,MEK Hussey,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Sandeep Sharma,Michael Gertges Neser,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Sandeep Sharma,Michael John Buchanan,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Sandeep Sharma,MJ Clarke,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Sandeep Sharma,MJ Lumb,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Sandeep Sharma,MA Starc,0.3333333333333333,0.16666666666666666,0.16666666666666666,0.0,0.0,0.0,0.0,0.16666666666666666,0.16666666666666666
+Sandeep Sharma,MG Johnson,0.5,0.5,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Sandeep Sharma,MJ McClenaghan,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Sandeep Sharma,MR Marsh,0.25,0.25,0.0,0.0,0.25,0.0,0.0,0.0,0.25
+Sandeep Sharma,M Manhas,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Sandeep Sharma,MF Maharoof,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Sandeep Sharma,Mohammad Ashraful,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Sandeep Sharma,Mohammad Asif,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Sandeep Sharma,Mohammad Hafeez,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Sandeep Sharma,Imran Tahir,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Sandeep Sharma,Mohammad Mustafizur Rahman,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Sandeep Sharma,Younis Khan,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Sandeep Sharma,Mohammed Shami,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Sandeep Sharma,MM Sharma,0.6,0.2,0.0,0.0,0.0,0.0,0.0,0.2,0.0
+Sandeep Sharma,Mohnish Bipinbhai Parmar,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Sandeep Sharma,MC Henriques,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Sandeep Sharma,M Morkel,0.3333333333333333,0.3333333333333333,0.0,0.0,0.0,0.0,0.0,0.3333333333333333,0.0
+Sandeep Sharma,MM Patel,0.5,0.0,0.0,0.0,0.5,0.0,0.0,0.0,0.0
+Sandeep Sharma,M Kartik,0.5,0.5,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Sandeep Sharma,M Vijay,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Sandeep Sharma,M Ashwin,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Sandeep Sharma,MA Khote,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Sandeep Sharma,M Muralitharan,0.3333333333333333,0.3333333333333333,0.0,0.0,0.0,0.0,0.0,0.3333333333333333,0.0
+Sandeep Sharma,NLTC Perera,0.0,0.5,0.0,0.0,0.0,0.0,0.0,0.5,0.0
+Sandeep Sharma,NJ Rimmington,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Sandeep Sharma,NL McCullum,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Sandeep Sharma,NM Coulter-Nile,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Sandeep Sharma,ND Doshi,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Sandeep Sharma,NK Patel,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Sandeep Sharma,N Rana,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Sandeep Sharma,OA Shah,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Sandeep Sharma,Padmanabhan Prasanth,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Sandeep Sharma,DP Vijaykumar,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Sandeep Sharma,Palani Amarnath,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Sandeep Sharma,Pankaj Singh,0.3333333333333333,0.0,0.3333333333333333,0.3333333333333333,0.0,0.0,0.0,0.0,0.0
+Sandeep Sharma,P Sahu,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Sandeep Sharma,Parvez Rasool,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Sandeep Sharma,P Awana,0.3333333333333333,0.3333333333333333,0.0,0.0,0.0,0.0,0.0,0.0,0.3333333333333333
+Sandeep Sharma,PM Sarvesh Kumar,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Sandeep Sharma,PJ Cummins,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Sandeep Sharma,PC Valthaty,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Sandeep Sharma,PD Collingwood,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Sandeep Sharma,P Negi,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Sandeep Sharma,Pawan Suyal,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Sandeep Sharma,PP Chawla,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Sandeep Sharma,PJ Sangwan,0.5,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.5
+Sandeep Sharma,PP Ojha,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Sandeep Sharma,P Parameswaran,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Sandeep Sharma,P Kumar,0.25,0.5,0.0,0.0,0.0,0.0,0.0,0.25,0.0
+Sandeep Sharma,PV Tambe,0.5,0.0,0.0,0.0,0.0,0.0,0.0,0.5,0.0
+Sandeep Sharma,Rahil Akhilahmed Shaikh,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Sandeep Sharma,R Shukla,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Sandeep Sharma,R Sharma,0.3333333333333333,0.3333333333333333,0.0,0.0,0.0,0.0,0.3333333333333333,0.0,0.0
+Sandeep Sharma,R Tewatia,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Sandeep Sharma,RV Gomez,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Sandeep Sharma,R Sathish,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Sandeep Sharma,R Bhatia,0.5,0.0,0.0,0.0,0.0,0.0,0.0,0.5,0.0
+Sandeep Sharma,R Bishnoi,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Sandeep Sharma,Rajesh Vithal Pawar,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Sandeep Sharma,RR Bhatkal,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Sandeep Sharma,RR Powar,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Sandeep Sharma,RR Sarwan,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Sandeep Sharma,S Gopal,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Sandeep Sharma,Ranadeb Ranjit Bose,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Sandeep Sharma,R Vinay Kumar,0.0,0.3333333333333333,0.0,0.0,0.3333333333333333,0.0,0.0,0.3333333333333333,0.0
+Sandeep Sharma,R Ashwin,0.25,0.25,0.0,0.0,0.0,0.0,0.0,0.25,0.25
+Sandeep Sharma,RS Bopara,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Sandeep Sharma,R Rampaul,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Sandeep Sharma,RA Jadeja,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Sandeep Sharma,Raymond William Price,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Sandeep Sharma,RS Sodhi,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Sandeep Sharma,RT Ponting,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Sandeep Sharma,R Dhawan,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Sandeep Sharma,RJ Quiney,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Sandeep Sharma,RJ Peterson,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Sandeep Sharma,RV Uthappa,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Sandeep Sharma,RE van der Merwe,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Sandeep Sharma,RR Raje,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Sandeep Sharma,RS Gavaskar,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Sandeep Sharma,RG Sharma,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Sandeep Sharma,RG More,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Sandeep Sharma,RP Singh,0.25,0.25,0.25,0.0,0.0,0.0,0.0,0.25,0.0
+Sandeep Sharma,Rujul Haren Bhatt,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Sandeep Sharma,RJ Harris,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Sandeep Sharma,R McLaren,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Sandeep Sharma,RN ten Doeschate,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Sandeep Sharma,R Ninan,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Sandeep Sharma,Sachin Baby,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Sandeep Sharma,SR Tendulkar,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Sandeep Sharma,S Rana,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Sandeep Sharma,Shahid Afridi,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Sandeep Sharma,Salman Butt,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Sandeep Sharma,Samuel Badree,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Sandeep Sharma,ST Jayasuriya,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Sandeep Sharma,SB Bangar,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Sandeep Sharma,SV Samson,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Sandeep Sharma,S Ladda,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Sandeep Sharma,Saurabh Sushant Bandekar,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Sandeep Sharma,Iqbal Abdulla,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Sandeep Sharma,SB Styris,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Sandeep Sharma,Scott Michael Boland,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Sandeep Sharma,SA Abbott,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Sandeep Sharma,SMSM Senanayake,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Sandeep Sharma,SL Malinga,0.2,0.2,0.2,0.0,0.0,0.0,0.0,0.2,0.2
+Sandeep Sharma,SB Jakati,0.5,0.5,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Sandeep Sharma,S Nadeem,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Sandeep Sharma,Shakib Al Hasan,0.5,0.0,0.0,0.0,0.0,0.0,0.0,0.5,0.0
+Sandeep Sharma,SJ Srivastava,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Sandeep Sharma,SE Bond,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Sandeep Sharma,SK Warne,0.3333333333333333,0.3333333333333333,0.3333333333333333,0.0,0.0,0.0,0.0,0.0,0.0
+Sandeep Sharma,SM Harwood,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Sandeep Sharma,SR Watson,0.2,0.2,0.2,0.0,0.0,0.0,0.0,0.2,0.2
+Sandeep Sharma,S Sreesanth,0.25,0.25,0.0,0.25,0.0,0.0,0.0,0.0,0.25
+Sandeep Sharma,SN Thakur,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Sandeep Sharma,SE Marsh,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Sandeep Sharma,SM Pollock,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Sandeep Sharma,SW Tait,0.25,0.25,0.25,0.0,0.0,0.0,0.0,0.0,0.25
+Sandeep Sharma,S Dhawan,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Sandeep Sharma,Shivam Sharma,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Sandeep Sharma,S Kaushik,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Sandeep Sharma,Shoaib Akhtar,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Sandeep Sharma,Shoaib Malik,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Sandeep Sharma,SS Shaikh,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Sandeep Sharma,SB Wagh,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Sandeep Sharma,Shrikant Shrihari Mundhe,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Sandeep Sharma,SD Chitnis,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Sandeep Sharma,S Kaul,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Sandeep Sharma,SK Trivedi,0.3333333333333333,0.0,0.0,0.0,0.0,0.0,0.0,0.3333333333333333,0.3333333333333333
+Sandeep Sharma,SM Katich,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Sandeep Sharma,Sohail Tanvir,0.16666666666666666,0.16666666666666666,0.16666666666666666,0.0,0.16666666666666666,0.0,0.0,0.16666666666666666,0.16666666666666666
+Sandeep Sharma,SC Ganguly,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Sandeep Sharma,Sourav Subrata Sarkar,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Sandeep Sharma,S Aravind,0.5,0.5,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Sandeep Sharma,S Sriram,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Sandeep Sharma,SPD Smith,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Sandeep Sharma,STR Binny,0.25,0.25,0.25,0.0,0.25,0.0,0.0,0.0,0.0
+Sandeep Sharma,S Badrinath,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Sandeep Sharma,S Tyagi,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Sandeep Sharma,S Narwal,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Sandeep Sharma,SB Joshi,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Sandeep Sharma,SP Narine,0.3333333333333333,0.3333333333333333,0.0,0.0,0.0,0.0,0.0,0.3333333333333333,0.0
+Sandeep Sharma,Sunny Gupta,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Sandeep Sharma,SK Raina,0.5,0.0,0.0,0.0,0.0,0.0,0.0,0.5,0.0
+Sandeep Sharma,SA Yadav,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Sandeep Sharma,Swapnil Singh,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Sandeep Sharma,Shoaib Ahmed,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Sandeep Sharma,Tabraiz Shamsi,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Sandeep Sharma,Taduri Prakashchandra Sudhindra,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Sandeep Sharma,TM Srivastava,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Sandeep Sharma,Tanmay Mishra,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Sandeep Sharma,T Kohli,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Sandeep Sharma,T Taibu,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Sandeep Sharma,TM Dilshan,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Sandeep Sharma,Timil Kaushik Patel,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Sandeep Sharma,TG Southee,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Sandeep Sharma,TL Suman,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Sandeep Sharma,TM Head,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Sandeep Sharma,Trent Alexander Boult,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Sandeep Sharma,T Henderson,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Sandeep Sharma,UA Birla,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Sandeep Sharma,Umar Gul,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Sandeep Sharma,UT Yadav,0.5,0.25,0.0,0.0,0.0,0.0,0.0,0.0,0.25
+Sandeep Sharma,VR Aaron,0.25,0.25,0.0,0.0,0.25,0.0,0.0,0.0,0.25
+Sandeep Sharma,V Pratap Singh,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Sandeep Sharma,S Vidyut,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Sandeep Sharma,Vijay Shankar,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Sandeep Sharma,VY Mahesh,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Sandeep Sharma,VRV Singh,0.3333333333333333,0.3333333333333333,0.0,0.0,0.0,0.0,0.0,0.0,0.3333333333333333
+Sandeep Sharma,VS Malik,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Sandeep Sharma,VS Yeligati,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Sandeep Sharma,V Kohli,0.3333333333333333,0.3333333333333333,0.0,0.0,0.0,0.0,0.0,0.0,0.3333333333333333
+Sandeep Sharma,V Sehwag,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Sandeep Sharma,Visvajitsinh Dilipsinh Solanki,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Sandeep Sharma,WPUJC Vaas,0.0,0.5,0.0,0.0,0.0,0.0,0.0,0.5,0.0
+Sandeep Sharma,WD Parnell,0.3333333333333333,0.3333333333333333,0.0,0.0,0.0,0.0,0.0,0.0,0.3333333333333333
+Sandeep Sharma,WA Mota,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Sandeep Sharma,Y Gnaneswara Rao,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Sandeep Sharma,Y Venugopal Rao,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Sandeep Sharma,Yashpal Singh,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Sandeep Sharma,Y Nagar,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Sandeep Sharma,YA Abdulla,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Sandeep Sharma,YK Pathan,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Sandeep Sharma,Yuvraj Singh,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Sandeep Sharma,YS Chahal,0.0,0.3333333333333333,0.0,0.0,0.3333333333333333,0.0,0.0,0.3333333333333333,0.0
+Sandeep Sharma,Z Khan,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0

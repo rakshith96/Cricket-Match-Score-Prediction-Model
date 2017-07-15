@@ -1,0 +1,396 @@
+Batsman,Bowler,0s_prob,1s_prob,2s_prob,3s_prob,4s_prob,5s_prob,6s_prob,outs_prob,extras_prob
+X Thalaivan Sargunam,AJ Finch,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+X Thalaivan Sargunam,Aavishkar Madhav Salvi,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+X Thalaivan Sargunam,A Mithun,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+X Thalaivan Sargunam,A Mukund,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+X Thalaivan Sargunam,AA Jhunjhunwala,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+X Thalaivan Sargunam,AM Nayar,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+X Thalaivan Sargunam,AS Raut,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+X Thalaivan Sargunam,Abrar Anjum Kazi,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+X Thalaivan Sargunam,AN Ahmed,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+X Thalaivan Sargunam,AC Voges,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+X Thalaivan Sargunam,AC Gilchrist,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+X Thalaivan Sargunam,Adam Fraser Milne,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+X Thalaivan Sargunam,Adam John Hollioake,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+X Thalaivan Sargunam,A Zampa,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+X Thalaivan Sargunam,AP Dole,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+X Thalaivan Sargunam,AD Mascarenhas,0.3333333333333333,0.3333333333333333,0.0,0.0,0.0,0.0,0.0,0.0,0.3333333333333333
+X Thalaivan Sargunam,AC Blizzard,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+X Thalaivan Sargunam,AM Rahane,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+X Thalaivan Sargunam,AB Agarkar,0.3333333333333333,0.3333333333333333,0.0,0.0,0.0,0.0,0.0,0.3333333333333333,0.0
+X Thalaivan Sargunam,A Chandila,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+X Thalaivan Sargunam,AD Nath,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+X Thalaivan Sargunam,AR Patel,0.3333333333333333,0.3333333333333333,0.0,0.0,0.0,0.0,0.0,0.3333333333333333,0.0
+X Thalaivan Sargunam,AC Thomas,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+X Thalaivan Sargunam,AG Murtaza,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+X Thalaivan Sargunam,A Mishra,0.3333333333333333,0.3333333333333333,0.0,0.0,0.0,0.0,0.0,0.3333333333333333,0.0
+X Thalaivan Sargunam,A Singh,0.0,0.5,0.0,0.0,0.0,0.0,0.0,0.5,0.0
+X Thalaivan Sargunam,A Uniyal,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+X Thalaivan Sargunam,A Ashish Reddy,0.3333333333333333,0.0,0.0,0.0,0.0,0.0,0.0,0.3333333333333333,0.3333333333333333
+X Thalaivan Sargunam,Anand Rajan,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+X Thalaivan Sargunam,AD Russell,0.3333333333333333,0.3333333333333333,0.0,0.0,0.0,0.0,0.0,0.0,0.3333333333333333
+X Thalaivan Sargunam,Andre Nel,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+X Thalaivan Sargunam,AB McDonald,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+X Thalaivan Sargunam,A Flintoff,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+X Thalaivan Sargunam,A Symonds,0.0,0.3333333333333333,0.3333333333333333,0.0,0.0,0.0,0.0,0.3333333333333333,0.0
+X Thalaivan Sargunam,Angelo Davis Mathews,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+X Thalaivan Sargunam,A Kumble,0.5,0.0,0.0,0.0,0.0,0.0,0.0,0.5,0.0
+X Thalaivan Sargunam,AA Chavan,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+X Thalaivan Sargunam,Ankit Sharma,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+X Thalaivan Sargunam,AS Rajpoot,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+X Thalaivan Sargunam,AUK Pathan,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+X Thalaivan Sargunam,A Nehra,0.25,0.25,0.0,0.0,0.0,0.0,0.0,0.25,0.25
+X Thalaivan Sargunam,AA Noffke,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+X Thalaivan Sargunam,AB Dinda,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0
+X Thalaivan Sargunam,AL Menaria,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+X Thalaivan Sargunam,Azhar Mahmood,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+X Thalaivan Sargunam,B Akhil,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+X Thalaivan Sargunam,BAW Mendis,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+X Thalaivan Sargunam,BMAJ Mendis,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+X Thalaivan Sargunam,BB Sran,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+X Thalaivan Sargunam,BJ Rohrer,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+X Thalaivan Sargunam,B Laughlin,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+X Thalaivan Sargunam,BR Dunk,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+X Thalaivan Sargunam,BCJ Cutting,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+X Thalaivan Sargunam,Benjamin William Hilfenhaus,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+X Thalaivan Sargunam,BE Hendricks,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+X Thalaivan Sargunam,B Chipli,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+X Thalaivan Sargunam,BA Bhatt,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+X Thalaivan Sargunam,B Kumar,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+X Thalaivan Sargunam,BB Samantray,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+X Thalaivan Sargunam,Bipul Sharma,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+X Thalaivan Sargunam,B Sumanth,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+X Thalaivan Sargunam,BJ Hodge,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+X Thalaivan Sargunam,Brett Geeves,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+X Thalaivan Sargunam,B Lee,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+X Thalaivan Sargunam,CL White,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+X Thalaivan Sargunam,CR Brathwaite,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+X Thalaivan Sargunam,CK Kapugedera,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+X Thalaivan Sargunam,Chandrasekharan Ganapathy,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+X Thalaivan Sargunam,CK Langeveldt,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+X Thalaivan Sargunam,C Nanda,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+X Thalaivan Sargunam,CA Lynn,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+X Thalaivan Sargunam,CH Gayle,0.4,0.2,0.0,0.0,0.2,0.0,0.0,0.2,0.0
+X Thalaivan Sargunam,CH Morris,0.4,0.2,0.2,0.0,0.2,0.0,0.0,0.0,0.0
+X Thalaivan Sargunam,CJ Jordan,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+X Thalaivan Sargunam,CJ McKay,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+X Thalaivan Sargunam,CA Ingram,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+X Thalaivan Sargunam,C Munro,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+X Thalaivan Sargunam,CRD Fernando,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+X Thalaivan Sargunam,CJ Anderson,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+X Thalaivan Sargunam,DW Steyn,0.4,0.2,0.0,0.0,0.0,0.0,0.0,0.2,0.2
+X Thalaivan Sargunam,DJ Harris,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+X Thalaivan Sargunam,DL Vettori,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+X Thalaivan Sargunam,DT Christian,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0
+X Thalaivan Sargunam,DJG Sammy,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0
+X Thalaivan Sargunam,DS Lehmann,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+X Thalaivan Sargunam,DA Miller,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+X Thalaivan Sargunam,DA Warner,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+X Thalaivan Sargunam,DJ Jacobs,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+X Thalaivan Sargunam,DJ Hussey,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+X Thalaivan Sargunam,D Wiese,0.3333333333333333,0.3333333333333333,0.0,0.0,0.0,0.0,0.0,0.3333333333333333,0.0
+X Thalaivan Sargunam,DJ Hooda,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+X Thalaivan Sargunam,Deepak Lokandersingh Chahar,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+X Thalaivan Sargunam,DNT Zoysa,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+X Thalaivan Sargunam,DPMD Jayawardene,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+X Thalaivan Sargunam,DB Ravi Teja,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+X Thalaivan Sargunam,DS Kulkarni,0.5,0.0,0.0,0.0,0.0,0.0,0.0,0.5,0.0
+X Thalaivan Sargunam,D du Preez,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+X Thalaivan Sargunam,D Salunkhe,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+X Thalaivan Sargunam,DP Nannes,0.3333333333333333,0.3333333333333333,0.0,0.0,0.0,0.0,0.0,0.3333333333333333,0.0
+X Thalaivan Sargunam,D Kalyankrishna,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+X Thalaivan Sargunam,DJ Thornely,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+X Thalaivan Sargunam,DJ Muthuswami,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+X Thalaivan Sargunam,DAJ Bracewell,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+X Thalaivan Sargunam,DE Bollinger,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+X Thalaivan Sargunam,DJ Bravo,0.5,0.16666666666666666,0.16666666666666666,0.0,0.0,0.0,0.0,0.16666666666666666,0.0
+X Thalaivan Sargunam,DR Smith,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+X Thalaivan Sargunam,FY Fazal,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+X Thalaivan Sargunam,F Behardien,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+X Thalaivan Sargunam,FH Edwards,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+X Thalaivan Sargunam,F du Plessis,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+X Thalaivan Sargunam,GH Vihari,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+X Thalaivan Sargunam,Gagandeep Singh Toor,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+X Thalaivan Sargunam,GB Hogg,0.5,0.5,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+X Thalaivan Sargunam,GJ Bailey,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+X Thalaivan Sargunam,GD McGrath,0.3333333333333333,0.16666666666666666,0.0,0.0,0.0,0.0,0.16666666666666666,0.16666666666666666,0.16666666666666666
+X Thalaivan Sargunam,GJ Maxwell,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+X Thalaivan Sargunam,GC Smith,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+X Thalaivan Sargunam,GR Napier,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+X Thalaivan Sargunam,Gurinder Singh Sandhu,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+X Thalaivan Sargunam,Gurkeerat Singh,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+X Thalaivan Sargunam,Harbhajan Singh,0.25,0.25,0.25,0.0,0.0,0.0,0.0,0.25,0.0
+X Thalaivan Sargunam,HH Pandya,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+X Thalaivan Sargunam,Harmeet Singh Baddhan,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+X Thalaivan Sargunam,Harmeet Singh,0.3333333333333333,0.3333333333333333,0.0,0.0,0.3333333333333333,0.0,0.0,0.0,0.0
+X Thalaivan Sargunam,Harpreet Singh,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+X Thalaivan Sargunam,HV Patel,0.5,0.5,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+X Thalaivan Sargunam,HM Amla,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+X Thalaivan Sargunam,S Randiv,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+X Thalaivan Sargunam,IK Pathan,0.5,0.25,0.0,0.0,0.0,0.0,0.0,0.25,0.0
+X Thalaivan Sargunam,I Malhotra,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+X Thalaivan Sargunam,IR Jaggi,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+X Thalaivan Sargunam,I Sharma,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+X Thalaivan Sargunam,IC Pandey,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+X Thalaivan Sargunam,Ishwar Haribhai Chaudhary,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+X Thalaivan Sargunam,JDP Oram,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+X Thalaivan Sargunam,JH Kallis,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+X Thalaivan Sargunam,J Suchith,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+X Thalaivan Sargunam,Jagrit Anand,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+X Thalaivan Sargunam,Jalaj Sahay Saxena,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+X Thalaivan Sargunam,J Syed Mohammad,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+X Thalaivan Sargunam,JDS Neesham,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+X Thalaivan Sargunam,JEC Franklin,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+X Thalaivan Sargunam,JP Faulkner,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0
+X Thalaivan Sargunam,JR Hopes,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+X Thalaivan Sargunam,Jaskaran Singh,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+X Thalaivan Sargunam,JO Holder,0.25,0.75,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+X Thalaivan Sargunam,JJ Bumrah,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0
+X Thalaivan Sargunam,J Yadav,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+X Thalaivan Sargunam,JD Unadkat,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+X Thalaivan Sargunam,JP Duminy,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+X Thalaivan Sargunam,JE Taylor,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+X Thalaivan Sargunam,JD Ryder,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+X Thalaivan Sargunam,Joginder Sharma,0.5,0.5,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+X Thalaivan Sargunam,J Botha,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+X Thalaivan Sargunam,JA Morkel,0.0,0.5,0.0,0.0,0.0,0.0,0.5,0.0,0.0
+X Thalaivan Sargunam,JJ van der Wath,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+X Thalaivan Sargunam,John Wayne Hastings,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+X Thalaivan Sargunam,J Theron,0.5,0.5,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+X Thalaivan Sargunam,JM Kemp,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+X Thalaivan Sargunam,Kamran Khan,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+X Thalaivan Sargunam,KS Williamson,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+X Thalaivan Sargunam,KW Richardson,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0
+X Thalaivan Sargunam,K Goel,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+X Thalaivan Sargunam,Karanveer Singh,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+X Thalaivan Sargunam,KV Sharma,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+X Thalaivan Sargunam,KK Nair,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+X Thalaivan Sargunam,Anureet Singh,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+X Thalaivan Sargunam,KM Jadhav,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+X Thalaivan Sargunam,KAJ Roach,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+X Thalaivan Sargunam,KP Pietersen,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+X Thalaivan Sargunam,KK Cooper,0.3333333333333333,0.3333333333333333,0.0,0.0,0.0,0.0,0.0,0.3333333333333333,0.0
+X Thalaivan Sargunam,Abdur Razzak,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+X Thalaivan Sargunam,KA Pollard,0.4,0.2,0.0,0.0,0.0,0.0,0.0,0.2,0.2
+X Thalaivan Sargunam,KB Arun Karthik,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+X Thalaivan Sargunam,KC Cariappa,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+X Thalaivan Sargunam,KP Appanna,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+X Thalaivan Sargunam,KD Karthik,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+X Thalaivan Sargunam,Krishmar Santokie,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+X Thalaivan Sargunam,K Upadhyay,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+X Thalaivan Sargunam,KH Pandya,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+X Thalaivan Sargunam,KMDN Kulasekara,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+X Thalaivan Sargunam,Kuldeep Yadav,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+X Thalaivan Sargunam,KJ Abbott,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+X Thalaivan Sargunam,L Balaji,0.2,0.2,0.0,0.0,0.2,0.0,0.0,0.2,0.2
+X Thalaivan Sargunam,LR Shukla,0.3333333333333333,0.3333333333333333,0.0,0.0,0.3333333333333333,0.0,0.0,0.0,0.0
+X Thalaivan Sargunam,LA Carseldine,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+X Thalaivan Sargunam,LMP Simmons,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+X Thalaivan Sargunam,LPC Silva,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+X Thalaivan Sargunam,L Ablish,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+X Thalaivan Sargunam,LJ Wright,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+X Thalaivan Sargunam,LRPL Taylor,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+X Thalaivan Sargunam,T Thushara,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+X Thalaivan Sargunam,MS Dhoni,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+X Thalaivan Sargunam,M Ntini,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0
+X Thalaivan Sargunam,Mandeep Singh,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+X Thalaivan Sargunam,MK Pandey,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+X Thalaivan Sargunam,MK Tiwary,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+X Thalaivan Sargunam,MS Gony,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+X Thalaivan Sargunam,M de Lange,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+X Thalaivan Sargunam,MP Stoinis,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+X Thalaivan Sargunam,MN Samuels,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+X Thalaivan Sargunam,MJ Guptill,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+X Thalaivan Sargunam,Mashrafe Mortaza,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+X Thalaivan Sargunam,MA Agarwal,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+X Thalaivan Sargunam,MEK Hussey,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+X Thalaivan Sargunam,Michael Gertges Neser,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+X Thalaivan Sargunam,Michael John Buchanan,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+X Thalaivan Sargunam,MJ Clarke,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+X Thalaivan Sargunam,MJ Lumb,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+X Thalaivan Sargunam,MA Starc,0.3333333333333333,0.16666666666666666,0.16666666666666666,0.0,0.0,0.0,0.0,0.16666666666666666,0.16666666666666666
+X Thalaivan Sargunam,MG Johnson,0.5,0.5,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+X Thalaivan Sargunam,MJ McClenaghan,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+X Thalaivan Sargunam,MR Marsh,0.25,0.25,0.0,0.0,0.25,0.0,0.0,0.0,0.25
+X Thalaivan Sargunam,M Manhas,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+X Thalaivan Sargunam,MF Maharoof,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+X Thalaivan Sargunam,Mohammad Ashraful,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+X Thalaivan Sargunam,Mohammad Asif,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+X Thalaivan Sargunam,Mohammad Hafeez,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+X Thalaivan Sargunam,Imran Tahir,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+X Thalaivan Sargunam,Mohammad Mustafizur Rahman,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+X Thalaivan Sargunam,Younis Khan,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+X Thalaivan Sargunam,Mohammed Shami,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+X Thalaivan Sargunam,MM Sharma,0.3333333333333333,0.3333333333333333,0.0,0.0,0.0,0.0,0.0,0.3333333333333333,0.0
+X Thalaivan Sargunam,Mohnish Bipinbhai Parmar,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+X Thalaivan Sargunam,MC Henriques,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+X Thalaivan Sargunam,M Morkel,0.3333333333333333,0.3333333333333333,0.0,0.0,0.0,0.0,0.0,0.3333333333333333,0.0
+X Thalaivan Sargunam,MM Patel,0.5,0.0,0.0,0.0,0.5,0.0,0.0,0.0,0.0
+X Thalaivan Sargunam,M Kartik,0.5,0.5,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+X Thalaivan Sargunam,M Vijay,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+X Thalaivan Sargunam,M Ashwin,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+X Thalaivan Sargunam,MA Khote,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+X Thalaivan Sargunam,M Muralitharan,0.3333333333333333,0.3333333333333333,0.0,0.0,0.0,0.0,0.0,0.3333333333333333,0.0
+X Thalaivan Sargunam,NLTC Perera,0.0,0.5,0.0,0.0,0.0,0.0,0.0,0.5,0.0
+X Thalaivan Sargunam,NJ Rimmington,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+X Thalaivan Sargunam,NL McCullum,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+X Thalaivan Sargunam,NM Coulter-Nile,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+X Thalaivan Sargunam,ND Doshi,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+X Thalaivan Sargunam,NK Patel,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+X Thalaivan Sargunam,N Rana,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+X Thalaivan Sargunam,OA Shah,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+X Thalaivan Sargunam,Padmanabhan Prasanth,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+X Thalaivan Sargunam,DP Vijaykumar,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+X Thalaivan Sargunam,Palani Amarnath,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+X Thalaivan Sargunam,Pankaj Singh,0.3333333333333333,0.0,0.3333333333333333,0.3333333333333333,0.0,0.0,0.0,0.0,0.0
+X Thalaivan Sargunam,P Sahu,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+X Thalaivan Sargunam,Parvez Rasool,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+X Thalaivan Sargunam,P Awana,0.3333333333333333,0.3333333333333333,0.0,0.0,0.0,0.0,0.0,0.0,0.3333333333333333
+X Thalaivan Sargunam,PM Sarvesh Kumar,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+X Thalaivan Sargunam,PJ Cummins,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+X Thalaivan Sargunam,PC Valthaty,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+X Thalaivan Sargunam,PD Collingwood,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+X Thalaivan Sargunam,P Negi,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+X Thalaivan Sargunam,Pawan Suyal,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+X Thalaivan Sargunam,PP Chawla,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+X Thalaivan Sargunam,PJ Sangwan,0.5,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.5
+X Thalaivan Sargunam,PP Ojha,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+X Thalaivan Sargunam,P Parameswaran,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+X Thalaivan Sargunam,P Kumar,0.3333333333333333,0.3333333333333333,0.0,0.0,0.0,0.0,0.0,0.3333333333333333,0.0
+X Thalaivan Sargunam,PV Tambe,0.5,0.0,0.0,0.0,0.0,0.0,0.0,0.5,0.0
+X Thalaivan Sargunam,Rahil Akhilahmed Shaikh,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+X Thalaivan Sargunam,R Shukla,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+X Thalaivan Sargunam,R Sharma,0.3333333333333333,0.3333333333333333,0.0,0.0,0.0,0.0,0.3333333333333333,0.0,0.0
+X Thalaivan Sargunam,R Tewatia,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+X Thalaivan Sargunam,RV Gomez,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+X Thalaivan Sargunam,R Sathish,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+X Thalaivan Sargunam,R Bhatia,0.5,0.0,0.0,0.0,0.0,0.0,0.0,0.5,0.0
+X Thalaivan Sargunam,R Bishnoi,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+X Thalaivan Sargunam,Rajesh Vithal Pawar,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+X Thalaivan Sargunam,RR Bhatkal,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+X Thalaivan Sargunam,RR Powar,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+X Thalaivan Sargunam,RR Sarwan,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+X Thalaivan Sargunam,S Gopal,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+X Thalaivan Sargunam,Ranadeb Ranjit Bose,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+X Thalaivan Sargunam,R Vinay Kumar,0.0,0.3333333333333333,0.0,0.0,0.3333333333333333,0.0,0.0,0.3333333333333333,0.0
+X Thalaivan Sargunam,R Ashwin,0.4,0.2,0.0,0.0,0.0,0.0,0.0,0.2,0.2
+X Thalaivan Sargunam,RS Bopara,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+X Thalaivan Sargunam,R Rampaul,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+X Thalaivan Sargunam,RA Jadeja,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+X Thalaivan Sargunam,Raymond William Price,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+X Thalaivan Sargunam,RS Sodhi,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+X Thalaivan Sargunam,RT Ponting,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+X Thalaivan Sargunam,R Dhawan,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+X Thalaivan Sargunam,RJ Quiney,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+X Thalaivan Sargunam,RJ Peterson,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+X Thalaivan Sargunam,RV Uthappa,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+X Thalaivan Sargunam,RE van der Merwe,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+X Thalaivan Sargunam,RR Raje,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+X Thalaivan Sargunam,RS Gavaskar,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+X Thalaivan Sargunam,RG Sharma,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+X Thalaivan Sargunam,RG More,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+X Thalaivan Sargunam,RP Singh,0.25,0.25,0.25,0.0,0.0,0.0,0.0,0.25,0.0
+X Thalaivan Sargunam,Rujul Haren Bhatt,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+X Thalaivan Sargunam,RJ Harris,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+X Thalaivan Sargunam,R McLaren,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+X Thalaivan Sargunam,RN ten Doeschate,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+X Thalaivan Sargunam,R Ninan,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+X Thalaivan Sargunam,Sachin Baby,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+X Thalaivan Sargunam,SR Tendulkar,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+X Thalaivan Sargunam,S Rana,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+X Thalaivan Sargunam,Shahid Afridi,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+X Thalaivan Sargunam,Salman Butt,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+X Thalaivan Sargunam,Samuel Badree,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+X Thalaivan Sargunam,ST Jayasuriya,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+X Thalaivan Sargunam,Sandeep Sharma,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+X Thalaivan Sargunam,SB Bangar,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+X Thalaivan Sargunam,SV Samson,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+X Thalaivan Sargunam,S Ladda,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+X Thalaivan Sargunam,Saurabh Sushant Bandekar,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+X Thalaivan Sargunam,Iqbal Abdulla,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+X Thalaivan Sargunam,SB Styris,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+X Thalaivan Sargunam,Scott Michael Boland,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+X Thalaivan Sargunam,SA Abbott,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+X Thalaivan Sargunam,SMSM Senanayake,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+X Thalaivan Sargunam,SL Malinga,0.3333333333333333,0.16666666666666666,0.16666666666666666,0.0,0.0,0.0,0.0,0.16666666666666666,0.16666666666666666
+X Thalaivan Sargunam,SB Jakati,0.5,0.5,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+X Thalaivan Sargunam,S Nadeem,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+X Thalaivan Sargunam,Shakib Al Hasan,0.5,0.0,0.0,0.0,0.0,0.0,0.0,0.5,0.0
+X Thalaivan Sargunam,SJ Srivastava,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+X Thalaivan Sargunam,SE Bond,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+X Thalaivan Sargunam,SK Warne,0.3333333333333333,0.3333333333333333,0.3333333333333333,0.0,0.0,0.0,0.0,0.0,0.0
+X Thalaivan Sargunam,SM Harwood,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+X Thalaivan Sargunam,SR Watson,0.3333333333333333,0.16666666666666666,0.16666666666666666,0.0,0.0,0.0,0.0,0.16666666666666666,0.16666666666666666
+X Thalaivan Sargunam,S Sreesanth,0.25,0.25,0.0,0.25,0.0,0.0,0.0,0.0,0.25
+X Thalaivan Sargunam,SN Thakur,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+X Thalaivan Sargunam,SE Marsh,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+X Thalaivan Sargunam,SM Pollock,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+X Thalaivan Sargunam,SW Tait,0.25,0.25,0.25,0.0,0.0,0.0,0.0,0.0,0.25
+X Thalaivan Sargunam,S Dhawan,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+X Thalaivan Sargunam,Shivam Sharma,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+X Thalaivan Sargunam,S Kaushik,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+X Thalaivan Sargunam,Shoaib Akhtar,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+X Thalaivan Sargunam,Shoaib Malik,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+X Thalaivan Sargunam,SS Shaikh,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+X Thalaivan Sargunam,SB Wagh,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+X Thalaivan Sargunam,Shrikant Shrihari Mundhe,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+X Thalaivan Sargunam,SD Chitnis,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+X Thalaivan Sargunam,S Kaul,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+X Thalaivan Sargunam,SK Trivedi,0.3333333333333333,0.0,0.0,0.0,0.0,0.0,0.0,0.3333333333333333,0.3333333333333333
+X Thalaivan Sargunam,SM Katich,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+X Thalaivan Sargunam,Sohail Tanvir,0.16666666666666666,0.16666666666666666,0.16666666666666666,0.0,0.16666666666666666,0.0,0.0,0.16666666666666666,0.16666666666666666
+X Thalaivan Sargunam,SC Ganguly,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+X Thalaivan Sargunam,Sourav Subrata Sarkar,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+X Thalaivan Sargunam,S Aravind,0.5,0.5,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+X Thalaivan Sargunam,S Sriram,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+X Thalaivan Sargunam,SPD Smith,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+X Thalaivan Sargunam,STR Binny,0.25,0.25,0.25,0.0,0.25,0.0,0.0,0.0,0.0
+X Thalaivan Sargunam,S Badrinath,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+X Thalaivan Sargunam,S Tyagi,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+X Thalaivan Sargunam,S Narwal,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+X Thalaivan Sargunam,SB Joshi,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+X Thalaivan Sargunam,SP Narine,0.3333333333333333,0.3333333333333333,0.0,0.0,0.0,0.0,0.0,0.3333333333333333,0.0
+X Thalaivan Sargunam,Sunny Gupta,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+X Thalaivan Sargunam,SK Raina,0.5,0.0,0.0,0.0,0.0,0.0,0.0,0.5,0.0
+X Thalaivan Sargunam,SA Yadav,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+X Thalaivan Sargunam,Swapnil Singh,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+X Thalaivan Sargunam,Shoaib Ahmed,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+X Thalaivan Sargunam,Tabraiz Shamsi,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+X Thalaivan Sargunam,Taduri Prakashchandra Sudhindra,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+X Thalaivan Sargunam,TM Srivastava,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+X Thalaivan Sargunam,Tanmay Mishra,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+X Thalaivan Sargunam,T Kohli,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+X Thalaivan Sargunam,T Taibu,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+X Thalaivan Sargunam,TM Dilshan,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+X Thalaivan Sargunam,Timil Kaushik Patel,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+X Thalaivan Sargunam,TG Southee,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+X Thalaivan Sargunam,TL Suman,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+X Thalaivan Sargunam,TM Head,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+X Thalaivan Sargunam,Trent Alexander Boult,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+X Thalaivan Sargunam,T Henderson,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+X Thalaivan Sargunam,UA Birla,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+X Thalaivan Sargunam,Umar Gul,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+X Thalaivan Sargunam,UT Yadav,0.3333333333333333,0.3333333333333333,0.0,0.0,0.0,0.0,0.0,0.0,0.3333333333333333
+X Thalaivan Sargunam,VR Aaron,0.25,0.25,0.0,0.0,0.25,0.0,0.0,0.0,0.25
+X Thalaivan Sargunam,V Pratap Singh,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+X Thalaivan Sargunam,S Vidyut,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+X Thalaivan Sargunam,Vijay Shankar,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+X Thalaivan Sargunam,VY Mahesh,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+X Thalaivan Sargunam,VRV Singh,0.3333333333333333,0.3333333333333333,0.0,0.0,0.0,0.0,0.0,0.0,0.3333333333333333
+X Thalaivan Sargunam,VS Malik,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+X Thalaivan Sargunam,VS Yeligati,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+X Thalaivan Sargunam,V Kohli,0.3333333333333333,0.3333333333333333,0.0,0.0,0.0,0.0,0.0,0.0,0.3333333333333333
+X Thalaivan Sargunam,V Sehwag,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+X Thalaivan Sargunam,Visvajitsinh Dilipsinh Solanki,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+X Thalaivan Sargunam,WPUJC Vaas,0.0,0.5,0.0,0.0,0.0,0.0,0.0,0.5,0.0
+X Thalaivan Sargunam,WD Parnell,0.3333333333333333,0.3333333333333333,0.0,0.0,0.0,0.0,0.0,0.0,0.3333333333333333
+X Thalaivan Sargunam,WA Mota,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+X Thalaivan Sargunam,Y Gnaneswara Rao,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+X Thalaivan Sargunam,Y Venugopal Rao,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+X Thalaivan Sargunam,Yashpal Singh,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+X Thalaivan Sargunam,Y Nagar,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+X Thalaivan Sargunam,YA Abdulla,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+X Thalaivan Sargunam,YK Pathan,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+X Thalaivan Sargunam,Yuvraj Singh,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+X Thalaivan Sargunam,YS Chahal,0.0,0.3333333333333333,0.0,0.0,0.3333333333333333,0.0,0.0,0.3333333333333333,0.0
+X Thalaivan Sargunam,Z Khan,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0

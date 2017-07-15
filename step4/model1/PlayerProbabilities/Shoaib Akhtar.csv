@@ -1,0 +1,395 @@
+Batsman,Bowler,0s_prob,1s_prob,2s_prob,3s_prob,4s_prob,5s_prob,6s_prob,outs_prob,extras_prob
+Shoaib Akhtar,AJ Finch,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Shoaib Akhtar,Aavishkar Madhav Salvi,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Shoaib Akhtar,A Mithun,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Shoaib Akhtar,A Mukund,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Shoaib Akhtar,AA Jhunjhunwala,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Shoaib Akhtar,AM Nayar,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Shoaib Akhtar,AS Raut,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Shoaib Akhtar,Abrar Anjum Kazi,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Shoaib Akhtar,AN Ahmed,0.5,0.5,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Shoaib Akhtar,AC Voges,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Shoaib Akhtar,AC Gilchrist,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Shoaib Akhtar,Adam Fraser Milne,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Shoaib Akhtar,Adam John Hollioake,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Shoaib Akhtar,A Zampa,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Shoaib Akhtar,AP Dole,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Shoaib Akhtar,AD Mascarenhas,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0
+Shoaib Akhtar,AC Blizzard,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Shoaib Akhtar,AM Rahane,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Shoaib Akhtar,AB Agarkar,0.14285714285714285,0.14285714285714285,0.14285714285714285,0.14285714285714285,0.14285714285714285,0.0,0.0,0.14285714285714285,0.14285714285714285
+Shoaib Akhtar,A Chandila,0.5,0.0,0.0,0.0,0.0,0.0,0.0,0.5,0.0
+Shoaib Akhtar,AD Nath,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Shoaib Akhtar,AR Patel,0.2,0.2,0.2,0.0,0.2,0.0,0.0,0.0,0.2
+Shoaib Akhtar,AC Thomas,0.2,0.2,0.2,0.0,0.2,0.0,0.0,0.2,0.0
+Shoaib Akhtar,AG Murtaza,0.5,0.5,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Shoaib Akhtar,A Mishra,0.2,0.2,0.0,0.0,0.0,0.0,0.2,0.2,0.2
+Shoaib Akhtar,A Singh,0.3333333333333333,0.3333333333333333,0.0,0.0,0.0,0.0,0.0,0.3333333333333333,0.0
+Shoaib Akhtar,A Uniyal,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Shoaib Akhtar,A Ashish Reddy,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Shoaib Akhtar,Anand Rajan,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Shoaib Akhtar,AD Russell,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Shoaib Akhtar,Andre Nel,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Shoaib Akhtar,AB McDonald,0.0,0.5,0.0,0.0,0.0,0.0,0.0,0.5,0.0
+Shoaib Akhtar,A Flintoff,0.3333333333333333,0.3333333333333333,0.0,0.0,0.0,0.0,0.0,0.3333333333333333,0.0
+Shoaib Akhtar,A Symonds,0.0,0.25,0.0,0.0,0.25,0.0,0.25,0.25,0.0
+Shoaib Akhtar,Angelo Davis Mathews,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Shoaib Akhtar,A Kumble,0.4,0.2,0.0,0.0,0.0,0.0,0.0,0.2,0.2
+Shoaib Akhtar,AA Chavan,0.3333333333333333,0.0,0.3333333333333333,0.0,0.0,0.0,0.3333333333333333,0.0,0.0
+Shoaib Akhtar,Ankit Sharma,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Shoaib Akhtar,AS Rajpoot,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Shoaib Akhtar,AUK Pathan,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Shoaib Akhtar,A Nehra,0.2857142857142857,0.14285714285714285,0.14285714285714285,0.0,0.14285714285714285,0.0,0.0,0.14285714285714285,0.14285714285714285
+Shoaib Akhtar,AA Noffke,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Shoaib Akhtar,AB Dinda,0.125,0.25,0.125,0.0,0.125,0.0,0.125,0.125,0.125
+Shoaib Akhtar,AL Menaria,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Shoaib Akhtar,Azhar Mahmood,0.0,0.5,0.0,0.0,0.5,0.0,0.0,0.0,0.0
+Shoaib Akhtar,B Akhil,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Shoaib Akhtar,BAW Mendis,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Shoaib Akhtar,BMAJ Mendis,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Shoaib Akhtar,BB Sran,0.25,0.25,0.0,0.0,0.25,0.0,0.0,0.25,0.0
+Shoaib Akhtar,BJ Rohrer,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Shoaib Akhtar,B Laughlin,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Shoaib Akhtar,BR Dunk,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Shoaib Akhtar,BCJ Cutting,0.5,0.0,0.0,0.0,0.0,0.0,0.0,0.5,0.0
+Shoaib Akhtar,Benjamin William Hilfenhaus,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Shoaib Akhtar,BE Hendricks,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Shoaib Akhtar,B Chipli,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Shoaib Akhtar,BA Bhatt,0.25,0.25,0.0,0.0,0.25,0.0,0.0,0.25,0.0
+Shoaib Akhtar,B Kumar,0.2,0.2,0.0,0.0,0.2,0.0,0.2,0.2,0.0
+Shoaib Akhtar,BB Samantray,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Shoaib Akhtar,Bipul Sharma,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0
+Shoaib Akhtar,B Sumanth,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Shoaib Akhtar,BJ Hodge,0.3333333333333333,0.3333333333333333,0.0,0.0,0.0,0.0,0.0,0.3333333333333333,0.0
+Shoaib Akhtar,Brett Geeves,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Shoaib Akhtar,B Lee,0.25,0.25,0.25,0.0,0.0,0.0,0.0,0.25,0.0
+Shoaib Akhtar,CL White,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Shoaib Akhtar,CR Brathwaite,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Shoaib Akhtar,CK Kapugedera,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Shoaib Akhtar,Chandrasekharan Ganapathy,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Shoaib Akhtar,CK Langeveldt,0.25,0.25,0.0,0.0,0.25,0.0,0.0,0.25,0.0
+Shoaib Akhtar,C Nanda,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Shoaib Akhtar,CA Lynn,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Shoaib Akhtar,CH Gayle,0.2,0.2,0.0,0.0,0.2,0.0,0.0,0.2,0.2
+Shoaib Akhtar,CH Morris,0.3333333333333333,0.3333333333333333,0.3333333333333333,0.0,0.0,0.0,0.0,0.0,0.0
+Shoaib Akhtar,CJ Jordan,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Shoaib Akhtar,CJ McKay,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Shoaib Akhtar,CA Ingram,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Shoaib Akhtar,C Munro,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Shoaib Akhtar,CRD Fernando,0.2,0.2,0.2,0.0,0.0,0.0,0.0,0.2,0.2
+Shoaib Akhtar,CJ Anderson,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Shoaib Akhtar,DW Steyn,0.3333333333333333,0.16666666666666666,0.0,0.0,0.16666666666666666,0.0,0.0,0.16666666666666666,0.16666666666666666
+Shoaib Akhtar,DJ Harris,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Shoaib Akhtar,DL Vettori,0.5,0.5,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Shoaib Akhtar,DT Christian,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Shoaib Akhtar,DJG Sammy,0.3333333333333333,0.3333333333333333,0.0,0.0,0.0,0.0,0.0,0.3333333333333333,0.0
+Shoaib Akhtar,DS Lehmann,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Shoaib Akhtar,DA Miller,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Shoaib Akhtar,DA Warner,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Shoaib Akhtar,DJ Jacobs,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Shoaib Akhtar,DJ Hussey,0.25,0.0,0.25,0.0,0.25,0.0,0.0,0.25,0.0
+Shoaib Akhtar,D Wiese,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Shoaib Akhtar,DJ Hooda,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Shoaib Akhtar,Deepak Lokandersingh Chahar,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Shoaib Akhtar,DNT Zoysa,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Shoaib Akhtar,DPMD Jayawardene,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Shoaib Akhtar,DB Ravi Teja,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Shoaib Akhtar,DS Kulkarni,0.25,0.25,0.0,0.0,0.0,0.0,0.0,0.25,0.25
+Shoaib Akhtar,D du Preez,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Shoaib Akhtar,D Salunkhe,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Shoaib Akhtar,DP Nannes,0.25,0.25,0.0,0.0,0.25,0.0,0.0,0.0,0.25
+Shoaib Akhtar,D Kalyankrishna,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Shoaib Akhtar,DJ Thornely,0.5714285714285714,0.14285714285714285,0.0,0.0,0.0,0.0,0.0,0.14285714285714285,0.14285714285714285
+Shoaib Akhtar,DJ Muthuswami,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Shoaib Akhtar,DAJ Bracewell,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Shoaib Akhtar,DE Bollinger,0.2,0.2,0.2,0.0,0.2,0.0,0.0,0.2,0.0
+Shoaib Akhtar,DJ Bravo,0.25,0.125,0.125,0.0,0.125,0.0,0.125,0.125,0.125
+Shoaib Akhtar,DR Smith,0.0,0.3333333333333333,0.0,0.0,0.3333333333333333,0.0,0.0,0.3333333333333333,0.0
+Shoaib Akhtar,FY Fazal,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Shoaib Akhtar,F Behardien,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Shoaib Akhtar,FH Edwards,0.3333333333333333,0.3333333333333333,0.0,0.0,0.0,0.0,0.0,0.0,0.3333333333333333
+Shoaib Akhtar,F du Plessis,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Shoaib Akhtar,GH Vihari,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Shoaib Akhtar,Gagandeep Singh Toor,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Shoaib Akhtar,GB Hogg,0.3333333333333333,0.3333333333333333,0.0,0.0,0.0,0.0,0.0,0.3333333333333333,0.0
+Shoaib Akhtar,GJ Bailey,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Shoaib Akhtar,GD McGrath,0.25,0.25,0.0,0.0,0.25,0.0,0.0,0.25,0.0
+Shoaib Akhtar,GJ Maxwell,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Shoaib Akhtar,GC Smith,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Shoaib Akhtar,GR Napier,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Shoaib Akhtar,Gurinder Singh Sandhu,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Shoaib Akhtar,Gurkeerat Singh,0.5,0.5,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Shoaib Akhtar,Harbhajan Singh,0.2222222222222222,0.2222222222222222,0.1111111111111111,0.0,0.1111111111111111,0.0,0.1111111111111111,0.1111111111111111,0.1111111111111111
+Shoaib Akhtar,HH Pandya,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Shoaib Akhtar,Harmeet Singh Baddhan,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Shoaib Akhtar,Harmeet Singh,0.14285714285714285,0.14285714285714285,0.14285714285714285,0.0,0.14285714285714285,0.0,0.14285714285714285,0.14285714285714285,0.14285714285714285
+Shoaib Akhtar,Harpreet Singh,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Shoaib Akhtar,HV Patel,0.25,0.25,0.0,0.0,0.25,0.0,0.0,0.25,0.0
+Shoaib Akhtar,HM Amla,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Shoaib Akhtar,S Randiv,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Shoaib Akhtar,IK Pathan,0.25,0.25,0.125,0.0,0.125,0.0,0.0,0.125,0.125
+Shoaib Akhtar,I Malhotra,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Shoaib Akhtar,IR Jaggi,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Shoaib Akhtar,I Sharma,0.2857142857142857,0.14285714285714285,0.14285714285714285,0.14285714285714285,0.0,0.0,0.0,0.14285714285714285,0.14285714285714285
+Shoaib Akhtar,IC Pandey,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Shoaib Akhtar,Ishwar Haribhai Chaudhary,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Shoaib Akhtar,JDP Oram,0.25,0.25,0.0,0.0,0.25,0.0,0.0,0.25,0.0
+Shoaib Akhtar,JH Kallis,0.25,0.125,0.125,0.125,0.125,0.0,0.0,0.125,0.125
+Shoaib Akhtar,J Suchith,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Shoaib Akhtar,Jagrit Anand,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Shoaib Akhtar,Jalaj Sahay Saxena,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Shoaib Akhtar,J Syed Mohammad,0.3333333333333333,0.0,0.0,0.0,0.0,0.0,0.3333333333333333,0.3333333333333333,0.0
+Shoaib Akhtar,JDS Neesham,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Shoaib Akhtar,JEC Franklin,0.3333333333333333,0.3333333333333333,0.0,0.0,0.0,0.0,0.3333333333333333,0.0,0.0
+Shoaib Akhtar,JP Faulkner,0.2,0.2,0.0,0.0,0.2,0.0,0.0,0.2,0.2
+Shoaib Akhtar,JR Hopes,0.0,0.5,0.0,0.0,0.0,0.0,0.0,0.5,0.0
+Shoaib Akhtar,Jaskaran Singh,0.5,0.0,0.0,0.0,0.5,0.0,0.0,0.0,0.0
+Shoaib Akhtar,JO Holder,0.25,0.25,0.25,0.0,0.25,0.0,0.0,0.0,0.0
+Shoaib Akhtar,JJ Bumrah,0.25,0.25,0.0,0.0,0.0,0.0,0.0,0.25,0.25
+Shoaib Akhtar,J Yadav,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Shoaib Akhtar,JD Unadkat,0.25,0.25,0.0,0.0,0.0,0.0,0.25,0.0,0.25
+Shoaib Akhtar,JP Duminy,0.16666666666666666,0.16666666666666666,0.16666666666666666,0.0,0.16666666666666666,0.0,0.16666666666666666,0.16666666666666666,0.0
+Shoaib Akhtar,JE Taylor,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Shoaib Akhtar,JD Ryder,0.3333333333333333,0.3333333333333333,0.3333333333333333,0.0,0.0,0.0,0.0,0.0,0.0
+Shoaib Akhtar,Joginder Sharma,0.0,0.5,0.5,0.0,0.0,0.0,0.0,0.0,0.0
+Shoaib Akhtar,J Botha,0.25,0.25,0.0,0.0,0.25,0.0,0.0,0.25,0.0
+Shoaib Akhtar,JA Morkel,0.125,0.25,0.125,0.0,0.125,0.0,0.125,0.125,0.125
+Shoaib Akhtar,JJ van der Wath,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Shoaib Akhtar,John Wayne Hastings,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Shoaib Akhtar,J Theron,0.3333333333333333,0.3333333333333333,0.0,0.0,0.0,0.0,0.0,0.0,0.3333333333333333
+Shoaib Akhtar,JM Kemp,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Shoaib Akhtar,Kamran Khan,0.0,0.5,0.0,0.0,0.0,0.0,0.0,0.5,0.0
+Shoaib Akhtar,KS Williamson,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Shoaib Akhtar,KW Richardson,0.0,0.5,0.5,0.0,0.0,0.0,0.0,0.0,0.0
+Shoaib Akhtar,K Goel,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Shoaib Akhtar,Karanveer Singh,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Shoaib Akhtar,KV Sharma,0.5,0.0,0.5,0.0,0.0,0.0,0.0,0.0,0.0
+Shoaib Akhtar,KK Nair,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Shoaib Akhtar,Anureet Singh,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Shoaib Akhtar,KM Jadhav,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Shoaib Akhtar,KAJ Roach,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Shoaib Akhtar,KP Pietersen,0.3333333333333333,0.3333333333333333,0.0,0.0,0.3333333333333333,0.0,0.0,0.0,0.0
+Shoaib Akhtar,KK Cooper,0.25,0.25,0.25,0.0,0.0,0.0,0.0,0.0,0.25
+Shoaib Akhtar,Abdur Razzak,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Shoaib Akhtar,KA Pollard,0.2,0.2,0.2,0.0,0.2,0.0,0.0,0.2,0.0
+Shoaib Akhtar,KB Arun Karthik,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Shoaib Akhtar,KC Cariappa,0.3333333333333333,0.3333333333333333,0.0,0.0,0.3333333333333333,0.0,0.0,0.0,0.0
+Shoaib Akhtar,KP Appanna,0.16666666666666666,0.16666666666666666,0.16666666666666666,0.0,0.16666666666666666,0.0,0.0,0.16666666666666666,0.16666666666666666
+Shoaib Akhtar,KD Karthik,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Shoaib Akhtar,Krishmar Santokie,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Shoaib Akhtar,K Upadhyay,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Shoaib Akhtar,KH Pandya,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0
+Shoaib Akhtar,KMDN Kulasekara,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Shoaib Akhtar,Kuldeep Yadav,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Shoaib Akhtar,KJ Abbott,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Shoaib Akhtar,L Balaji,0.2222222222222222,0.2222222222222222,0.1111111111111111,0.0,0.1111111111111111,0.0,0.1111111111111111,0.1111111111111111,0.1111111111111111
+Shoaib Akhtar,LR Shukla,0.2857142857142857,0.14285714285714285,0.14285714285714285,0.0,0.14285714285714285,0.0,0.0,0.14285714285714285,0.14285714285714285
+Shoaib Akhtar,LA Carseldine,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Shoaib Akhtar,LMP Simmons,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Shoaib Akhtar,LPC Silva,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Shoaib Akhtar,L Ablish,0.3333333333333333,0.3333333333333333,0.0,0.0,0.0,0.0,0.0,0.0,0.3333333333333333
+Shoaib Akhtar,LJ Wright,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Shoaib Akhtar,LRPL Taylor,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Shoaib Akhtar,T Thushara,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Shoaib Akhtar,MS Dhoni,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Shoaib Akhtar,M Ntini,0.3333333333333333,0.3333333333333333,0.0,0.0,0.3333333333333333,0.0,0.0,0.0,0.0
+Shoaib Akhtar,Mandeep Singh,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Shoaib Akhtar,MK Pandey,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Shoaib Akhtar,MK Tiwary,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Shoaib Akhtar,MS Gony,0.25,0.125,0.125,0.0,0.125,0.0,0.125,0.125,0.125
+Shoaib Akhtar,M de Lange,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Shoaib Akhtar,MP Stoinis,0.3333333333333333,0.3333333333333333,0.0,0.0,0.0,0.0,0.0,0.3333333333333333,0.0
+Shoaib Akhtar,MN Samuels,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Shoaib Akhtar,MJ Guptill,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Shoaib Akhtar,Mashrafe Mortaza,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Shoaib Akhtar,MA Agarwal,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Shoaib Akhtar,MEK Hussey,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Shoaib Akhtar,Michael Gertges Neser,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Shoaib Akhtar,Michael John Buchanan,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Shoaib Akhtar,MJ Clarke,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Shoaib Akhtar,MJ Lumb,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Shoaib Akhtar,MA Starc,0.25,0.25,0.0,0.0,0.25,0.0,0.0,0.25,0.0
+Shoaib Akhtar,MG Johnson,0.2,0.2,0.0,0.0,0.2,0.0,0.0,0.2,0.2
+Shoaib Akhtar,MJ McClenaghan,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Shoaib Akhtar,MR Marsh,0.2,0.2,0.0,0.0,0.2,0.0,0.0,0.2,0.2
+Shoaib Akhtar,M Manhas,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Shoaib Akhtar,MF Maharoof,0.5,0.25,0.0,0.0,0.0,0.0,0.0,0.25,0.0
+Shoaib Akhtar,Mohammad Ashraful,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Shoaib Akhtar,Mohammad Asif,0.5,0.5,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Shoaib Akhtar,Mohammad Hafeez,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Shoaib Akhtar,Imran Tahir,0.2,0.2,0.0,0.0,0.0,0.0,0.2,0.2,0.2
+Shoaib Akhtar,Mohammad Mustafizur Rahman,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Shoaib Akhtar,Younis Khan,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Shoaib Akhtar,Mohammed Shami,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Shoaib Akhtar,MM Sharma,0.25,0.25,0.0,0.0,0.25,0.0,0.0,0.25,0.0
+Shoaib Akhtar,Mohnish Bipinbhai Parmar,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Shoaib Akhtar,MC Henriques,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Shoaib Akhtar,M Morkel,0.2857142857142857,0.14285714285714285,0.14285714285714285,0.0,0.14285714285714285,0.0,0.0,0.14285714285714285,0.14285714285714285
+Shoaib Akhtar,MM Patel,0.2857142857142857,0.14285714285714285,0.14285714285714285,0.0,0.14285714285714285,0.0,0.14285714285714285,0.14285714285714285,0.0
+Shoaib Akhtar,M Kartik,0.3333333333333333,0.3333333333333333,0.0,0.0,0.3333333333333333,0.0,0.0,0.0,0.0
+Shoaib Akhtar,M Vijay,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Shoaib Akhtar,M Ashwin,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Shoaib Akhtar,MA Khote,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Shoaib Akhtar,M Muralitharan,0.25,0.5,0.0,0.0,0.0,0.0,0.0,0.0,0.25
+Shoaib Akhtar,NLTC Perera,0.5,0.0,0.0,0.0,0.0,0.0,0.0,0.5,0.0
+Shoaib Akhtar,NJ Rimmington,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Shoaib Akhtar,NL McCullum,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Shoaib Akhtar,NM Coulter-Nile,0.5,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.5
+Shoaib Akhtar,ND Doshi,0.2,0.2,0.2,0.0,0.0,0.0,0.2,0.0,0.2
+Shoaib Akhtar,NK Patel,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Shoaib Akhtar,N Rana,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Shoaib Akhtar,OA Shah,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Shoaib Akhtar,Padmanabhan Prasanth,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Shoaib Akhtar,DP Vijaykumar,0.5,0.5,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Shoaib Akhtar,Palani Amarnath,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Shoaib Akhtar,Pankaj Singh,0.2,0.2,0.2,0.0,0.2,0.0,0.0,0.0,0.2
+Shoaib Akhtar,P Sahu,0.25,0.0,0.25,0.0,0.25,0.0,0.0,0.0,0.25
+Shoaib Akhtar,Parvez Rasool,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Shoaib Akhtar,P Awana,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Shoaib Akhtar,PM Sarvesh Kumar,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Shoaib Akhtar,PJ Cummins,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Shoaib Akhtar,PC Valthaty,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0
+Shoaib Akhtar,PD Collingwood,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Shoaib Akhtar,P Negi,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Shoaib Akhtar,Pawan Suyal,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Shoaib Akhtar,PP Chawla,0.25,0.25,0.0,0.0,0.25,0.0,0.0,0.25,0.0
+Shoaib Akhtar,PJ Sangwan,0.14285714285714285,0.14285714285714285,0.14285714285714285,0.0,0.14285714285714285,0.0,0.14285714285714285,0.14285714285714285,0.14285714285714285
+Shoaib Akhtar,PP Ojha,0.25,0.5,0.0,0.0,0.0,0.0,0.0,0.25,0.0
+Shoaib Akhtar,P Parameswaran,0.3333333333333333,0.3333333333333333,0.0,0.0,0.3333333333333333,0.0,0.0,0.0,0.0
+Shoaib Akhtar,P Kumar,0.125,0.125,0.125,0.125,0.125,0.0,0.125,0.125,0.125
+Shoaib Akhtar,PV Tambe,0.3333333333333333,0.3333333333333333,0.3333333333333333,0.0,0.0,0.0,0.0,0.0,0.0
+Shoaib Akhtar,Rahil Akhilahmed Shaikh,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Shoaib Akhtar,R Shukla,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Shoaib Akhtar,R Sharma,0.3333333333333333,0.3333333333333333,0.0,0.0,0.0,0.0,0.0,0.0,0.3333333333333333
+Shoaib Akhtar,R Tewatia,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Shoaib Akhtar,RV Gomez,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Shoaib Akhtar,R Sathish,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Shoaib Akhtar,R Bhatia,0.125,0.25,0.125,0.0,0.125,0.0,0.125,0.125,0.125
+Shoaib Akhtar,R Bishnoi,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Shoaib Akhtar,Rajesh Vithal Pawar,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Shoaib Akhtar,RR Bhatkal,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Shoaib Akhtar,RR Powar,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Shoaib Akhtar,RR Sarwan,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Shoaib Akhtar,S Gopal,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Shoaib Akhtar,Ranadeb Ranjit Bose,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Shoaib Akhtar,R Vinay Kumar,0.25,0.125,0.125,0.0,0.125,0.0,0.125,0.125,0.125
+Shoaib Akhtar,R Ashwin,0.3333333333333333,0.3333333333333333,0.16666666666666666,0.0,0.0,0.0,0.0,0.16666666666666666,0.0
+Shoaib Akhtar,RS Bopara,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Shoaib Akhtar,R Rampaul,0.3333333333333333,0.0,0.3333333333333333,0.0,0.0,0.0,0.0,0.3333333333333333,0.0
+Shoaib Akhtar,RA Jadeja,0.2,0.2,0.2,0.0,0.0,0.0,0.2,0.2,0.0
+Shoaib Akhtar,Raymond William Price,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Shoaib Akhtar,RS Sodhi,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Shoaib Akhtar,RT Ponting,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Shoaib Akhtar,R Dhawan,0.25,0.25,0.25,0.0,0.0,0.0,0.0,0.0,0.25
+Shoaib Akhtar,RJ Quiney,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Shoaib Akhtar,RJ Peterson,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Shoaib Akhtar,RV Uthappa,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Shoaib Akhtar,RE van der Merwe,0.3333333333333333,0.3333333333333333,0.0,0.0,0.0,0.0,0.0,0.3333333333333333,0.0
+Shoaib Akhtar,RR Raje,0.2,0.2,0.0,0.0,0.2,0.0,0.0,0.2,0.2
+Shoaib Akhtar,RS Gavaskar,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Shoaib Akhtar,RG Sharma,0.3333333333333333,0.3333333333333333,0.0,0.0,0.0,0.0,0.0,0.3333333333333333,0.0
+Shoaib Akhtar,RG More,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Shoaib Akhtar,RP Singh,0.25,0.25,0.125,0.0,0.125,0.0,0.0,0.125,0.125
+Shoaib Akhtar,Rujul Haren Bhatt,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Shoaib Akhtar,RJ Harris,0.16666666666666666,0.16666666666666666,0.16666666666666666,0.0,0.16666666666666666,0.0,0.16666666666666666,0.0,0.16666666666666666
+Shoaib Akhtar,R McLaren,0.25,0.25,0.0,0.0,0.25,0.0,0.0,0.0,0.25
+Shoaib Akhtar,RN ten Doeschate,0.0,0.3333333333333333,0.3333333333333333,0.0,0.3333333333333333,0.0,0.0,0.0,0.0
+Shoaib Akhtar,R Ninan,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Shoaib Akhtar,Sachin Baby,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Shoaib Akhtar,SR Tendulkar,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Shoaib Akhtar,S Rana,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Shoaib Akhtar,Shahid Afridi,0.5,0.0,0.0,0.0,0.5,0.0,0.0,0.0,0.0
+Shoaib Akhtar,Salman Butt,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Shoaib Akhtar,Samuel Badree,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Shoaib Akhtar,ST Jayasuriya,0.3333333333333333,0.3333333333333333,0.0,0.0,0.0,0.0,0.0,0.0,0.3333333333333333
+Shoaib Akhtar,Sandeep Sharma,0.25,0.25,0.25,0.0,0.25,0.0,0.0,0.0,0.0
+Shoaib Akhtar,SB Bangar,0.3333333333333333,0.3333333333333333,0.0,0.0,0.3333333333333333,0.0,0.0,0.0,0.0
+Shoaib Akhtar,SV Samson,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Shoaib Akhtar,S Ladda,0.3333333333333333,0.3333333333333333,0.0,0.0,0.0,0.0,0.3333333333333333,0.0,0.0
+Shoaib Akhtar,Saurabh Sushant Bandekar,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Shoaib Akhtar,Iqbal Abdulla,0.25,0.25,0.25,0.0,0.25,0.0,0.0,0.0,0.0
+Shoaib Akhtar,SB Styris,0.3333333333333333,0.3333333333333333,0.0,0.0,0.3333333333333333,0.0,0.0,0.0,0.0
+Shoaib Akhtar,Scott Michael Boland,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Shoaib Akhtar,SA Abbott,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Shoaib Akhtar,SMSM Senanayake,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Shoaib Akhtar,SL Malinga,0.2857142857142857,0.14285714285714285,0.14285714285714285,0.0,0.14285714285714285,0.0,0.0,0.14285714285714285,0.14285714285714285
+Shoaib Akhtar,SB Jakati,0.16666666666666666,0.16666666666666666,0.16666666666666666,0.0,0.16666666666666666,0.0,0.16666666666666666,0.16666666666666666,0.0
+Shoaib Akhtar,S Nadeem,0.3333333333333333,0.3333333333333333,0.0,0.0,0.0,0.0,0.0,0.0,0.3333333333333333
+Shoaib Akhtar,Shakib Al Hasan,0.25,0.5,0.0,0.0,0.0,0.0,0.0,0.25,0.0
+Shoaib Akhtar,SJ Srivastava,0.3333333333333333,0.3333333333333333,0.0,0.0,0.0,0.0,0.0,0.3333333333333333,0.0
+Shoaib Akhtar,SE Bond,0.14285714285714285,0.14285714285714285,0.14285714285714285,0.0,0.14285714285714285,0.0,0.14285714285714285,0.14285714285714285,0.14285714285714285
+Shoaib Akhtar,SK Warne,0.4,0.2,0.0,0.0,0.2,0.0,0.0,0.2,0.0
+Shoaib Akhtar,SM Harwood,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Shoaib Akhtar,SR Watson,0.2,0.2,0.0,0.0,0.2,0.0,0.0,0.2,0.2
+Shoaib Akhtar,S Sreesanth,0.5,0.5,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Shoaib Akhtar,SN Thakur,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Shoaib Akhtar,SE Marsh,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Shoaib Akhtar,SM Pollock,0.4,0.4,0.0,0.0,0.2,0.0,0.0,0.0,0.0
+Shoaib Akhtar,SW Tait,0.5,0.0,0.0,0.0,0.0,0.0,0.0,0.5,0.0
+Shoaib Akhtar,S Dhawan,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Shoaib Akhtar,Shivam Sharma,0.3333333333333333,0.3333333333333333,0.0,0.0,0.3333333333333333,0.0,0.0,0.0,0.0
+Shoaib Akhtar,S Kaushik,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Shoaib Akhtar,Shoaib Malik,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Shoaib Akhtar,SS Shaikh,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Shoaib Akhtar,SB Wagh,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Shoaib Akhtar,Shrikant Shrihari Mundhe,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Shoaib Akhtar,SD Chitnis,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Shoaib Akhtar,S Kaul,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Shoaib Akhtar,SK Trivedi,0.25,0.25,0.125,0.0,0.125,0.0,0.0,0.125,0.125
+Shoaib Akhtar,SM Katich,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Shoaib Akhtar,Sohail Tanvir,0.25,0.25,0.25,0.0,0.0,0.0,0.0,0.25,0.0
+Shoaib Akhtar,SC Ganguly,0.16666666666666666,0.3333333333333333,0.16666666666666666,0.0,0.16666666666666666,0.0,0.0,0.16666666666666666,0.0
+Shoaib Akhtar,Sourav Subrata Sarkar,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Shoaib Akhtar,S Aravind,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Shoaib Akhtar,S Sriram,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Shoaib Akhtar,SPD Smith,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Shoaib Akhtar,STR Binny,0.3333333333333333,0.3333333333333333,0.0,0.0,0.0,0.0,0.0,0.0,0.3333333333333333
+Shoaib Akhtar,S Badrinath,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Shoaib Akhtar,S Tyagi,0.2,0.2,0.2,0.0,0.2,0.0,0.0,0.0,0.2
+Shoaib Akhtar,S Narwal,0.25,0.0,0.25,0.0,0.0,0.0,0.25,0.25,0.0
+Shoaib Akhtar,SB Joshi,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Shoaib Akhtar,SP Narine,0.2,0.2,0.2,0.0,0.0,0.0,0.2,0.2,0.0
+Shoaib Akhtar,Sunny Gupta,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Shoaib Akhtar,SK Raina,0.25,0.25,0.25,0.0,0.0,0.0,0.0,0.25,0.0
+Shoaib Akhtar,SA Yadav,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Shoaib Akhtar,Swapnil Singh,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Shoaib Akhtar,Shoaib Ahmed,0.5,0.5,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Shoaib Akhtar,Tabraiz Shamsi,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Shoaib Akhtar,Taduri Prakashchandra Sudhindra,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Shoaib Akhtar,TM Srivastava,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Shoaib Akhtar,Tanmay Mishra,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Shoaib Akhtar,T Kohli,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Shoaib Akhtar,T Taibu,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Shoaib Akhtar,TM Dilshan,0.3333333333333333,0.3333333333333333,0.0,0.0,0.0,0.0,0.3333333333333333,0.0,0.0
+Shoaib Akhtar,Timil Kaushik Patel,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Shoaib Akhtar,TG Southee,0.2,0.2,0.2,0.0,0.2,0.0,0.0,0.0,0.2
+Shoaib Akhtar,TL Suman,0.3333333333333333,0.3333333333333333,0.0,0.0,0.0,0.0,0.0,0.3333333333333333,0.0
+Shoaib Akhtar,TM Head,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Shoaib Akhtar,Trent Alexander Boult,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Shoaib Akhtar,T Henderson,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Shoaib Akhtar,UA Birla,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Shoaib Akhtar,Umar Gul,0.25,0.25,0.0,0.0,0.0,0.0,0.0,0.25,0.25
+Shoaib Akhtar,UT Yadav,0.2,0.2,0.2,0.0,0.2,0.0,0.0,0.2,0.0
+Shoaib Akhtar,VR Aaron,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Shoaib Akhtar,V Pratap Singh,0.0,0.3333333333333333,0.3333333333333333,0.0,0.0,0.0,0.0,0.3333333333333333,0.0
+Shoaib Akhtar,S Vidyut,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Shoaib Akhtar,Vijay Shankar,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Shoaib Akhtar,VY Mahesh,0.25,0.125,0.125,0.0,0.125,0.0,0.125,0.125,0.125
+Shoaib Akhtar,VRV Singh,0.25,0.25,0.25,0.0,0.0,0.0,0.0,0.0,0.25
+Shoaib Akhtar,VS Malik,0.25,0.25,0.25,0.0,0.0,0.0,0.0,0.0,0.25
+Shoaib Akhtar,VS Yeligati,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Shoaib Akhtar,V Kohli,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Shoaib Akhtar,V Sehwag,0.25,0.25,0.0,0.0,0.25,0.0,0.0,0.25,0.0
+Shoaib Akhtar,Visvajitsinh Dilipsinh Solanki,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Shoaib Akhtar,WPUJC Vaas,0.3333333333333333,0.3333333333333333,0.0,0.0,0.0,0.0,0.0,0.3333333333333333,0.0
+Shoaib Akhtar,WD Parnell,0.2,0.2,0.0,0.0,0.2,0.0,0.0,0.2,0.2
+Shoaib Akhtar,WA Mota,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Shoaib Akhtar,Y Gnaneswara Rao,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Shoaib Akhtar,Y Venugopal Rao,0.16666666666666666,0.16666666666666666,0.16666666666666666,0.0,0.0,0.0,0.16666666666666666,0.16666666666666666,0.16666666666666666
+Shoaib Akhtar,Yashpal Singh,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Shoaib Akhtar,Y Nagar,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Shoaib Akhtar,YA Abdulla,0.2,0.2,0.0,0.0,0.2,0.0,0.0,0.2,0.2
+Shoaib Akhtar,YK Pathan,0.25,0.25,0.25,0.0,0.25,0.0,0.0,0.0,0.0
+Shoaib Akhtar,Yuvraj Singh,0.5,0.5,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Shoaib Akhtar,YS Chahal,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Shoaib Akhtar,Z Khan,0.25,0.25,0.25,0.0,0.25,0.0,0.0,0.0,0.0
